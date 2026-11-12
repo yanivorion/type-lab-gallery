@@ -62,13 +62,19 @@ def build(destination=None):
                 item[key] = 'assets/' + name
         for filename in ('prompt-lab.css', 'prompt-lab.js', 'import-help.html'):
             shutil.copyfile(HERE / filename, target / filename)
+        if (HERE / 'live' / 'index.html').is_file():
+            shutil.copytree(HERE / 'live', target / 'live', dirs_exist_ok=True)
         (target / '.nojekyll').touch()
     else:
         for item in manifest['items']:
             for key in ('image', 'original'):
                 item[key] = quote(unquote(item[key]), safe='/.-_')
     data = json.dumps(manifest, ensure_ascii=False).replace('<', '\\u003c')
-    page = (HERE / 'template.html').read_text().replace('__DATA__', data)
+    live_url = ('live/' if (HERE / 'live' / 'index.html').is_file() else
+                '../026-control-python-test/full-latin.html' if
+                (ROOT / 'experiments/026-control-python-test/full-latin.html').is_file() else None)
+    live_link = f'<p><a href="{live_url}">Type in nine full variable fonts ↗</a></p>' if live_url else ''
+    page = (HERE / 'template.html').read_text().replace('__DATA__', data).replace('__LIVE_FONT_LINK__', live_link)
     (target / 'index.html').write_text(page)
     (target / 'manifest.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n')
     print(f'Built {manifest["count"]} outputs in {target}')
