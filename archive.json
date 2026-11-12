@@ -2,11 +2,11 @@
   "schema_version": 1,
   "title": "All typography generations",
   "scope": "Saved generation outputs and actual font proofs; sources, references, UI captures, raw tracing diagnostics and duplicate render encodings excluded. Multiple views of one font are labelled as proofs.",
-  "count": 237,
+  "count": 246,
   "counts": {
     "Word directions": 45,
     "Recent image generations": 7,
-    "Compiled English fonts": 36,
+    "Compiled English fonts": 45,
     "Hebrew generations": 14,
     "Compiled Hebrew fonts": 8,
     "Poster applications": 47,
@@ -1500,6 +1500,28 @@
       "sha256": "0c9a764e565a7473a55df2c7120d2217040f2e656879ba254670ce19e960042d"
     },
     {
+      "id": "import-d780bf719ab58c8f",
+      "title": "026 · Reference 09 · Component trial 02",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Second internal expansion proof: original controls plus I/l/o/m/h/u/b/d/p/q/C/P made from source components. Partial family; full coverage, weight, kerning and 20px review remain unfinished.",
+      "origin": "Python · compiled source-component TTF",
+      "image": "assets/1bde4ba6b26afd3eea9c6e5a4b3ab72e658f4c13b1d650eae5c19ea852888c75.png",
+      "original": "assets/1bde4ba6b26afd3eea9c6e5a4b3ab72e658f4c13b1d650eae5c19ea852888c75.png",
+      "sha256": "1bde4ba6b26afd3eea9c6e5a4b3ab72e658f4c13b1d650eae5c19ea852888c75"
+    },
+    {
+      "id": "import-e3023cd180367dc6",
+      "title": "026 · Reference 02 · Component trial 02",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Second internal expansion proof: original controls plus I/l/o/m/h/u/b/d/p/q/C/P made from source components. Partial family; full coverage, weight, kerning and 20px review remain unfinished.",
+      "origin": "Python · compiled source-component TTF",
+      "image": "assets/29ae50f1bdae833c352b3361caa81922ba59f04de8798e7698b5d895fe354ffd.png",
+      "original": "assets/29ae50f1bdae833c352b3361caa81922ba59f04de8798e7698b5d895fe354ffd.png",
+      "sha256": "29ae50f1bdae833c352b3361caa81922ba59f04de8798e7698b5d895fe354ffd"
+    },
+    {
       "id": "import-7f6c8d73ba7eeaff",
       "title": "026 · Reference 05 · Component expansion",
       "category": "Compiled English fonts",
@@ -1533,6 +1555,28 @@
       "sha256": "5434bd67e5bd856749aeb070a6fff41ba8b6ca3a15769c645d1da9084777e6d9"
     },
     {
+      "id": "import-d0479ea3b2db9510",
+      "title": "026 · Reference 04 · Component trial 02",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Second internal expansion proof: original controls plus I/l/o/m/h/u/b/d/p/q/C/P made from source components. Partial family; full coverage, weight, kerning and 20px review remain unfinished.",
+      "origin": "Python · compiled source-component TTF",
+      "image": "assets/6b844cee9b6401e73fb73f455f4bcbc9f2d2628386b231c1a4b5f8bd14509c2a.png",
+      "original": "assets/6b844cee9b6401e73fb73f455f4bcbc9f2d2628386b231c1a4b5f8bd14509c2a.png",
+      "sha256": "6b844cee9b6401e73fb73f455f4bcbc9f2d2628386b231c1a4b5f8bd14509c2a"
+    },
+    {
+      "id": "import-c5b96736bd1c6792",
+      "title": "026 · Reference 08 · Component trial 02",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Second internal expansion proof: original controls plus I/l/o/m/h/u/b/d/p/q/C/P made from source components. Partial family; full coverage, weight, kerning and 20px review remain unfinished.",
+      "origin": "Python · compiled source-component TTF",
+      "image": "assets/6dd80b54e007bca0b70aba2c609c45f7832c866c954cb96bf415c007324dda7f.png",
+      "original": "assets/6dd80b54e007bca0b70aba2c609c45f7832c866c954cb96bf415c007324dda7f.png",
+      "sha256": "6dd80b54e007bca0b70aba2c609c45f7832c866c954cb96bf415c007324dda7f"
+    },
+    {
       "id": "import-869d262417c2e344",
       "title": "026 · Reference 09 · Component expansion",
       "category": "Compiled English fonts",
@@ -1544,6 +1588,50 @@
       "sha256": "7b6bda860fe74280db60fbcf35be2f5e03ee1009af8ad93d26fc659891720c61"
     },
     {
+      "id": "import-19d28bf950a01247",
+      "title": "026 · Reference 06 · Component trial 02",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Second internal expansion proof: original controls plus I/l/o/m/h/u/b/d/p/q/C/P made from source components. Partial family; full coverage, weight, kerning and 20px review remain unfinished.",
+      "origin": "Python · compiled source-component TTF",
+      "image": "assets/824dccacf617a8eab8b0668724048de4ddb606592a23c2c7bc2906ac0ba4fc61.png",
+      "original": "assets/824dccacf617a8eab8b0668724048de4ddb606592a23c2c7bc2906ac0ba4fc61.png",
+      "sha256": "824dccacf617a8eab8b0668724048de4ddb606592a23c2c7bc2906ac0ba4fc61"
+    },
+    {
+      "id": "import-a1b25417ed864d8c",
+      "title": "026 · Reference 03 · Component trial 02",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Second internal expansion proof: original controls plus I/l/o/m/h/u/b/d/p/q/C/P made from source components. Partial family; full coverage, weight, kerning and 20px review remain unfinished.",
+      "origin": "Python · compiled source-component TTF",
+      "image": "assets/8f35962d365c85dd936c61cc6851db0ff8e1eb40e778697bec4d11dca75ca437.png",
+      "original": "assets/8f35962d365c85dd936c61cc6851db0ff8e1eb40e778697bec4d11dca75ca437.png",
+      "sha256": "8f35962d365c85dd936c61cc6851db0ff8e1eb40e778697bec4d11dca75ca437"
+    },
+    {
+      "id": "import-2ef90a64c943fce0",
+      "title": "026 · Reference 01 · Component trial 02",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Second internal expansion proof: original controls plus I/l/o/m/h/u/b/d/p/q/C/P made from source components. Partial family; full coverage, weight, kerning and 20px review remain unfinished.",
+      "origin": "Python · compiled source-component TTF",
+      "image": "assets/a42d6485369f381f37f805afa13e54c7089816b1f9bf522d58c6f484db738eeb.png",
+      "original": "assets/a42d6485369f381f37f805afa13e54c7089816b1f9bf522d58c6f484db738eeb.png",
+      "sha256": "a42d6485369f381f37f805afa13e54c7089816b1f9bf522d58c6f484db738eeb"
+    },
+    {
+      "id": "import-2a46c5b40f4b9f65",
+      "title": "026 · Reference 07 · Component trial 02",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Second internal expansion proof: original controls plus I/l/o/m/h/u/b/d/p/q/C/P made from source components. Partial family; full coverage, weight, kerning and 20px review remain unfinished.",
+      "origin": "Python · compiled source-component TTF",
+      "image": "assets/ad9bd87d60e727d04629f81de8b7870d4e864a147ce188aa73ff984952ade93f.png",
+      "original": "assets/ad9bd87d60e727d04629f81de8b7870d4e864a147ce188aa73ff984952ade93f.png",
+      "sha256": "ad9bd87d60e727d04629f81de8b7870d4e864a147ce188aa73ff984952ade93f"
+    },
+    {
       "id": "import-59bd5312801d0f11",
       "title": "026 · Reference 08 · Component expansion",
       "category": "Compiled English fonts",
@@ -1553,6 +1641,17 @@
       "image": "assets/b4c8c2a5ebf1146b22e8e479514b61f46379b461fadb6ab4f9f84e67018153a5.png",
       "original": "assets/b4c8c2a5ebf1146b22e8e479514b61f46379b461fadb6ab4f9f84e67018153a5.png",
       "sha256": "b4c8c2a5ebf1146b22e8e479514b61f46379b461fadb6ab4f9f84e67018153a5"
+    },
+    {
+      "id": "import-737be2fb33c3cdc5",
+      "title": "026 · Reference 05 · Component trial 02",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Second internal expansion proof: original controls plus I/l/o/m/h/u/b/d/p/q/C/P made from source components. Partial family; full coverage, weight, kerning and 20px review remain unfinished.",
+      "origin": "Python · compiled source-component TTF",
+      "image": "assets/bc04e07ddbdc04bd0b756548e0699b4080d44ab36a5e25ecc730c8dc0209776b.png",
+      "original": "assets/bc04e07ddbdc04bd0b756548e0699b4080d44ab36a5e25ecc730c8dc0209776b.png",
+      "sha256": "bc04e07ddbdc04bd0b756548e0699b4080d44ab36a5e25ecc730c8dc0209776b"
     },
     {
       "id": "import-3a01b5d75952e583",
