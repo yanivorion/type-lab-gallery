@@ -5,6 +5,7 @@ import hashlib
 import json
 from pathlib import Path
 import shutil
+import runpy
 from urllib.parse import quote, unquote
 
 HERE = Path(__file__).resolve().parent
@@ -77,6 +78,10 @@ def build(destination=None):
     page = (HERE / 'template.html').read_text().replace('__DATA__', data).replace('__LIVE_FONT_LINK__', live_link)
     (target / 'index.html').write_text(page)
     (target / 'manifest.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n')
+    if not destination:
+        library_sync = ROOT / 'site' / 'font-editor' / 'sync_library.py'
+        if library_sync.is_file():
+            runpy.run_path(str(library_sync))['sync']()
     print(f'Built {manifest["count"]} outputs in {target}')
 
 
