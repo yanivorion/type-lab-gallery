@@ -2,11 +2,11 @@
   "schema_version": 1,
   "title": "All typography generations",
   "scope": "Saved generation outputs and actual font proofs; sources, references, UI captures, raw tracing diagnostics and duplicate render encodings excluded. Multiple views of one font are labelled as proofs.",
-  "count": 219,
+  "count": 237,
   "counts": {
     "Word directions": 45,
     "Recent image generations": 7,
-    "Compiled English fonts": 18,
+    "Compiled English fonts": 36,
     "Hebrew generations": 14,
     "Compiled Hebrew fonts": 8,
     "Poster applications": 47,
@@ -1489,6 +1489,105 @@
       "sha256": "d3017a6cb8ab70908ee5d54eddeab2bb341b05921237b68582d0ccb0648bf13a"
     },
     {
+      "id": "import-0b9bbea8b6aff5fb",
+      "title": "026 · Reference 07 · Component expansion",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Intermediate test only. Source controls faithfully traced; new letters reuse source components. Full Latin coverage and weight axis are unfinished. Not a complete font or an accepted design.",
+      "origin": "Python · actual compiled source-derived TTF proof",
+      "image": "assets/0c9a764e565a7473a55df2c7120d2217040f2e656879ba254670ce19e960042d.png",
+      "original": "assets/0c9a764e565a7473a55df2c7120d2217040f2e656879ba254670ce19e960042d.png",
+      "sha256": "0c9a764e565a7473a55df2c7120d2217040f2e656879ba254670ce19e960042d"
+    },
+    {
+      "id": "import-7f6c8d73ba7eeaff",
+      "title": "026 · Reference 05 · Component expansion",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Intermediate test only. Source controls faithfully traced; new letters reuse source components. Full Latin coverage and weight axis are unfinished. Not a complete font or an accepted design.",
+      "origin": "Python · actual compiled source-derived TTF proof",
+      "image": "assets/319c6e6d0f2f8705e62480888b5ad7a825436363f4284deed1726fb41b5fb1e0.png",
+      "original": "assets/319c6e6d0f2f8705e62480888b5ad7a825436363f4284deed1726fb41b5fb1e0.png",
+      "sha256": "319c6e6d0f2f8705e62480888b5ad7a825436363f4284deed1726fb41b5fb1e0"
+    },
+    {
+      "id": "import-11f89eed32e912d8",
+      "title": "026 · Reference 01 · Component expansion",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Intermediate test only. Source controls faithfully traced; new letters reuse source components. Full Latin coverage and weight axis are unfinished. Not a complete font or an accepted design.",
+      "origin": "Python · actual compiled source-derived TTF proof",
+      "image": "assets/3c40188f652d29683736e5235631784ad3566ff4029c5068bae65556f5a13640.png",
+      "original": "assets/3c40188f652d29683736e5235631784ad3566ff4029c5068bae65556f5a13640.png",
+      "sha256": "3c40188f652d29683736e5235631784ad3566ff4029c5068bae65556f5a13640"
+    },
+    {
+      "id": "import-5ed659f93bb666aa",
+      "title": "026 · Reference 04 · Component expansion",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Intermediate test only. Source controls faithfully traced; new letters reuse source components. Full Latin coverage and weight axis are unfinished. Not a complete font or an accepted design.",
+      "origin": "Python · actual compiled source-derived TTF proof",
+      "image": "assets/5434bd67e5bd856749aeb070a6fff41ba8b6ca3a15769c645d1da9084777e6d9.png",
+      "original": "assets/5434bd67e5bd856749aeb070a6fff41ba8b6ca3a15769c645d1da9084777e6d9.png",
+      "sha256": "5434bd67e5bd856749aeb070a6fff41ba8b6ca3a15769c645d1da9084777e6d9"
+    },
+    {
+      "id": "import-869d262417c2e344",
+      "title": "026 · Reference 09 · Component expansion",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Intermediate test only. Source controls faithfully traced; new letters reuse source components. Full Latin coverage and weight axis are unfinished. Not a complete font or an accepted design.",
+      "origin": "Python · actual compiled source-derived TTF proof",
+      "image": "assets/7b6bda860fe74280db60fbcf35be2f5e03ee1009af8ad93d26fc659891720c61.png",
+      "original": "assets/7b6bda860fe74280db60fbcf35be2f5e03ee1009af8ad93d26fc659891720c61.png",
+      "sha256": "7b6bda860fe74280db60fbcf35be2f5e03ee1009af8ad93d26fc659891720c61"
+    },
+    {
+      "id": "import-59bd5312801d0f11",
+      "title": "026 · Reference 08 · Component expansion",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Intermediate test only. Source controls faithfully traced; new letters reuse source components. Full Latin coverage and weight axis are unfinished. Not a complete font or an accepted design.",
+      "origin": "Python · actual compiled source-derived TTF proof",
+      "image": "assets/b4c8c2a5ebf1146b22e8e479514b61f46379b461fadb6ab4f9f84e67018153a5.png",
+      "original": "assets/b4c8c2a5ebf1146b22e8e479514b61f46379b461fadb6ab4f9f84e67018153a5.png",
+      "sha256": "b4c8c2a5ebf1146b22e8e479514b61f46379b461fadb6ab4f9f84e67018153a5"
+    },
+    {
+      "id": "import-3a01b5d75952e583",
+      "title": "026 · Reference 06 · Component expansion",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Intermediate test only. Source controls faithfully traced; new letters reuse source components. Full Latin coverage and weight axis are unfinished. Not a complete font or an accepted design.",
+      "origin": "Python · actual compiled source-derived TTF proof",
+      "image": "assets/c66f9af4a53df69bcbfa394d847a13fb4be9162a504b2dcea3457b3f6a57d162.png",
+      "original": "assets/c66f9af4a53df69bcbfa394d847a13fb4be9162a504b2dcea3457b3f6a57d162.png",
+      "sha256": "c66f9af4a53df69bcbfa394d847a13fb4be9162a504b2dcea3457b3f6a57d162"
+    },
+    {
+      "id": "import-aea64f5f525e77c0",
+      "title": "026 · Reference 03 · Component expansion",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Intermediate test only. Source controls faithfully traced; new letters reuse source components. Full Latin coverage and weight axis are unfinished. Not a complete font or an accepted design.",
+      "origin": "Python · actual compiled source-derived TTF proof",
+      "image": "assets/c6b65efe692109004479d654c78f5f0b637ca3245f430f58e9565e828b4eda13.png",
+      "original": "assets/c6b65efe692109004479d654c78f5f0b637ca3245f430f58e9565e828b4eda13.png",
+      "sha256": "c6b65efe692109004479d654c78f5f0b637ca3245f430f58e9565e828b4eda13"
+    },
+    {
+      "id": "import-444f8500d3704e11",
+      "title": "026 · Reference 02 · Component expansion",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Intermediate test only. Source controls faithfully traced; new letters reuse source components. Full Latin coverage and weight axis are unfinished. Not a complete font or an accepted design.",
+      "origin": "Python · actual compiled source-derived TTF proof",
+      "image": "assets/e1cbcacec0dfb4a5a46c33af36c0488a4664ecb911c6b9da07f3d504f9b918e8.png",
+      "original": "assets/e1cbcacec0dfb4a5a46c33af36c0488a4664ecb911c6b9da07f3d504f9b918e8.png",
+      "sha256": "e1cbcacec0dfb4a5a46c33af36c0488a4664ecb911c6b9da07f3d504f9b918e8"
+    },
+    {
       "id": "import-2c8b7c8bd81d90bc",
       "title": "Nano Banana · Digits and symbols 10",
       "category": "New image generations",
@@ -2279,6 +2378,105 @@
       "image": "assets/bced56f3e9787aadebcabcbaa0f9c7544328aff1178e677fe34692300353e60e.png",
       "original": "assets/bced56f3e9787aadebcabcbaa0f9c7544328aff1178e677fe34692300353e60e.png",
       "sha256": "bced56f3e9787aadebcabcbaa0f9c7544328aff1178e677fe34692300353e60e"
+    },
+    {
+      "id": "import-687122f73512aa0b",
+      "title": "026 · Reference 05 · Source reconstruction",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Intermediate test only. Source controls faithfully traced; new letters reuse source components. Full Latin coverage and weight axis are unfinished. Not a complete font or an accepted design.",
+      "origin": "Python · actual compiled source-derived TTF proof",
+      "image": "assets/193f0f88a12b45fdf06731fa828ba6af0185ae4376d5365d236c34c59300b5f0.png",
+      "original": "assets/193f0f88a12b45fdf06731fa828ba6af0185ae4376d5365d236c34c59300b5f0.png",
+      "sha256": "193f0f88a12b45fdf06731fa828ba6af0185ae4376d5365d236c34c59300b5f0"
+    },
+    {
+      "id": "import-4c65d4c88529bf00",
+      "title": "026 · Reference 01 · Source reconstruction",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Intermediate test only. Source controls faithfully traced; new letters reuse source components. Full Latin coverage and weight axis are unfinished. Not a complete font or an accepted design.",
+      "origin": "Python · actual compiled source-derived TTF proof",
+      "image": "assets/3305f974df524949d52f36f123c06930f3ed1a29323920497670aa32af8a5ebc.png",
+      "original": "assets/3305f974df524949d52f36f123c06930f3ed1a29323920497670aa32af8a5ebc.png",
+      "sha256": "3305f974df524949d52f36f123c06930f3ed1a29323920497670aa32af8a5ebc"
+    },
+    {
+      "id": "import-84fff72e12a963f1",
+      "title": "026 · Reference 06 · Source reconstruction",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Intermediate test only. Source controls faithfully traced; new letters reuse source components. Full Latin coverage and weight axis are unfinished. Not a complete font or an accepted design.",
+      "origin": "Python · actual compiled source-derived TTF proof",
+      "image": "assets/3e9ed71005bd71e8294a62250d16a2449b114859b254c6a0701a90c88cea6c08.png",
+      "original": "assets/3e9ed71005bd71e8294a62250d16a2449b114859b254c6a0701a90c88cea6c08.png",
+      "sha256": "3e9ed71005bd71e8294a62250d16a2449b114859b254c6a0701a90c88cea6c08"
+    },
+    {
+      "id": "import-6694d5e1d1de9fae",
+      "title": "026 · Reference 02 · Source reconstruction",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Intermediate test only. Source controls faithfully traced; new letters reuse source components. Full Latin coverage and weight axis are unfinished. Not a complete font or an accepted design.",
+      "origin": "Python · actual compiled source-derived TTF proof",
+      "image": "assets/4ab6e73aedf2e7d6c2e845e2d021cb54d60bead12b8f7db065935dcd770f927d.png",
+      "original": "assets/4ab6e73aedf2e7d6c2e845e2d021cb54d60bead12b8f7db065935dcd770f927d.png",
+      "sha256": "4ab6e73aedf2e7d6c2e845e2d021cb54d60bead12b8f7db065935dcd770f927d"
+    },
+    {
+      "id": "import-e9e6d47102e842f5",
+      "title": "026 · Reference 07 · Source reconstruction",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Intermediate test only. Source controls faithfully traced; new letters reuse source components. Full Latin coverage and weight axis are unfinished. Not a complete font or an accepted design.",
+      "origin": "Python · actual compiled source-derived TTF proof",
+      "image": "assets/5a16a35416598683eeb74be9c8a7957f99b4da52161d522e63c539c6501f7423.png",
+      "original": "assets/5a16a35416598683eeb74be9c8a7957f99b4da52161d522e63c539c6501f7423.png",
+      "sha256": "5a16a35416598683eeb74be9c8a7957f99b4da52161d522e63c539c6501f7423"
+    },
+    {
+      "id": "import-3420af40c0b4df0c",
+      "title": "026 · Reference 09 · Source reconstruction",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Intermediate test only. Source controls faithfully traced; new letters reuse source components. Full Latin coverage and weight axis are unfinished. Not a complete font or an accepted design.",
+      "origin": "Python · actual compiled source-derived TTF proof",
+      "image": "assets/678230a5afbaf1e69a2cffaf43e9a0c5a65e910e1b96723535753926da03f3c9.png",
+      "original": "assets/678230a5afbaf1e69a2cffaf43e9a0c5a65e910e1b96723535753926da03f3c9.png",
+      "sha256": "678230a5afbaf1e69a2cffaf43e9a0c5a65e910e1b96723535753926da03f3c9"
+    },
+    {
+      "id": "import-902b044dbfcfd24e",
+      "title": "026 · Reference 03 · Source reconstruction",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Intermediate test only. Source controls faithfully traced; new letters reuse source components. Full Latin coverage and weight axis are unfinished. Not a complete font or an accepted design.",
+      "origin": "Python · actual compiled source-derived TTF proof",
+      "image": "assets/774e1b0a9f4cd112ce220be3618f14d86063f3b80987a43b6a2849d582d73bda.png",
+      "original": "assets/774e1b0a9f4cd112ce220be3618f14d86063f3b80987a43b6a2849d582d73bda.png",
+      "sha256": "774e1b0a9f4cd112ce220be3618f14d86063f3b80987a43b6a2849d582d73bda"
+    },
+    {
+      "id": "import-efa9da3696007174",
+      "title": "026 · Reference 08 · Source reconstruction",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Intermediate test only. Source controls faithfully traced; new letters reuse source components. Full Latin coverage and weight axis are unfinished. Not a complete font or an accepted design.",
+      "origin": "Python · actual compiled source-derived TTF proof",
+      "image": "assets/a3f57688f86744bad934885a39440137b4b49be561044a10f545a0f2a8ada7fd.png",
+      "original": "assets/a3f57688f86744bad934885a39440137b4b49be561044a10f545a0f2a8ada7fd.png",
+      "sha256": "a3f57688f86744bad934885a39440137b4b49be561044a10f545a0f2a8ada7fd"
+    },
+    {
+      "id": "import-5addd57b49e67ee7",
+      "title": "026 · Reference 04 · Source reconstruction",
+      "category": "Compiled English fonts",
+      "status": "Intermediate subset / full family unfinished",
+      "description": "Intermediate test only. Source controls faithfully traced; new letters reuse source components. Full Latin coverage and weight axis are unfinished. Not a complete font or an accepted design.",
+      "origin": "Python · actual compiled source-derived TTF proof",
+      "image": "assets/c219f3d0e3b546e35f196892859517d2f230ec938dd92e3f61135d5a30d44b93.png",
+      "original": "assets/c219f3d0e3b546e35f196892859517d2f230ec938dd92e3f61135d5a30d44b93.png",
+      "sha256": "c219f3d0e3b546e35f196892859517d2f230ec938dd92e3f61135d5a30d44b93"
     }
   ]
 }
