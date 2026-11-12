@@ -15,12 +15,16 @@ RASTER = {'.png', '.jpg', '.jpeg', '.webp', '.gif', '.avif'}
 def collect():
     manifest = json.loads((HERE / 'archive.json').read_text())
     items = manifest['items']
+    known_hashes = {hashlib.sha256((HERE / unquote(i['image'])).read_bytes()).hexdigest() for i in items}
     for path in sorted((HERE / 'incoming').rglob('*')):
         if not path.is_file() or path.suffix.lower() not in RASTER:
             continue
         meta_path = path.with_suffix(path.suffix + '.json')
         meta = json.loads(meta_path.read_text()) if meta_path.exists() else {}
         digest = hashlib.sha256(path.read_bytes()).hexdigest()
+        if digest in known_hashes:
+            continue
+        known_hashes.add(digest)
         items.append({
             'id': 'import-' + hashlib.sha256(str(path.relative_to(HERE)).encode()).hexdigest()[:16],
             'title': meta.get('title', path.stem.replace('-', ' ')),
