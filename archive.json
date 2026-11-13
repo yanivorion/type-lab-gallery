@@ -2,7 +2,7 @@
   "schema_version": 1,
   "title": "All typography generations",
   "scope": "Saved generation outputs and actual font proofs; sources, references, UI captures, raw tracing diagnostics and duplicate render encodings excluded. Multiple views of one font are labelled as proofs.",
-  "count": 426,
+  "count": 486,
   "counts": {
     "Word directions": 45,
     "Recent image generations": 7,
@@ -11,7 +11,7 @@
     "Compiled Hebrew fonts": 8,
     "Poster applications": 47,
     "Image generation history": 8,
-    "New image generations": 84
+    "New image generations": 144
   },
   "items": [
     {
@@ -1445,6 +1445,28 @@
       "origin": "011-reward-cafe-dots"
     },
     {
+      "id": "import-cd44ab1c623ea2b2",
+      "title": "Block Channel · 01 Faithful",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/7880f4bb448e8a7d368ff8536b83ea7bdb68264b8392056fb8e08ca11ed16920.png",
+      "original": "assets/7880f4bb448e8a7d368ff8536b83ea7bdb68264b8392056fb8e08ca11ed16920.png",
+      "sha256": "7880f4bb448e8a7d368ff8536b83ea7bdb68264b8392056fb8e08ca11ed16920"
+    },
+    {
+      "id": "import-a5334ce1aec8515c",
+      "title": "Tall Soft · 01 Faithful",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/9f9063a38ea85c285fe28465e1a648fe0a056feac4885102484ed847ab259bf9.png",
+      "original": "assets/9f9063a38ea85c285fe28465e1a648fe0a056feac4885102484ed847ab259bf9.png",
+      "sha256": "9f9063a38ea85c285fe28465e1a648fe0a056feac4885102484ed847ab259bf9"
+    },
+    {
       "id": "import-ad8ab9fdaa3b9a62",
       "title": "010 · MAKE SOME NOISE · finished poster",
       "category": "Poster applications",
@@ -1456,6 +1478,39 @@
       "sha256": "a52e4455794277d24a4ab02ccab3db48feaa0c1a80a407c6a8b3f4234bbf12eb"
     },
     {
+      "id": "import-3d214966bf247c6c",
+      "title": "Diagonal Block · 01 Faithful",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/ce79f451f2fd476b587f274e9dd2549c2e60ef886f5cdf18bab1244242e305e9.png",
+      "original": "assets/ce79f451f2fd476b587f274e9dd2549c2e60ef886f5cdf18bab1244242e305e9.png",
+      "sha256": "ce79f451f2fd476b587f274e9dd2549c2e60ef886f5cdf18bab1244242e305e9"
+    },
+    {
+      "id": "import-6e2991fe1301e646",
+      "title": "Razor Contrast · 01 Faithful",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/d6d645abc7181990974fd079aba4abac97325d760ce85d17489fbb2ed9680898.png",
+      "original": "assets/d6d645abc7181990974fd079aba4abac97325d760ce85d17489fbb2ed9680898.png",
+      "sha256": "d6d645abc7181990974fd079aba4abac97325d760ce85d17489fbb2ed9680898"
+    },
+    {
+      "id": "import-1350b0813de9ffb1",
+      "title": "Organic Ribbon · 01 Faithful",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/dbaf6f5249257dce00471d3455c16a7859de392669a3a4cb7ede862a1654b0c8.png",
+      "original": "assets/dbaf6f5249257dce00471d3455c16a7859de392669a3a4cb7ede862a1654b0c8.png",
+      "sha256": "dbaf6f5249257dce00471d3455c16a7859de392669a3a4cb7ede862a1654b0c8"
+    },
+    {
       "id": "import-b4ff3801fd501923",
       "title": "Architectural alphabet 01 · Faithful arcade",
       "category": "New image generations",
@@ -1465,6 +1520,61 @@
       "image": "assets/b6ecf63a38dc634fee7bd2f8f1a46a5e2f81e644fc4c541ebb7dc88efcfd3804.png",
       "original": "assets/b6ecf63a38dc634fee7bd2f8f1a46a5e2f81e644fc4c541ebb7dc88efcfd3804.png",
       "sha256": "b6ecf63a38dc634fee7bd2f8f1a46a5e2f81e644fc4c541ebb7dc88efcfd3804"
+    },
+    {
+      "id": "import-4f66e6cce6c6f6a4",
+      "title": "Diagonal Block · 02 Lighter",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/24d0358dfa3ac5eaaaff297a57f078bb1f6362f4b79d4718f8ed03bfcf2cf9f8.png",
+      "original": "assets/24d0358dfa3ac5eaaaff297a57f078bb1f6362f4b79d4718f8ed03bfcf2cf9f8.png",
+      "sha256": "24d0358dfa3ac5eaaaff297a57f078bb1f6362f4b79d4718f8ed03bfcf2cf9f8"
+    },
+    {
+      "id": "import-2891a8d60cc578d5",
+      "title": "Organic Ribbon · 02 Lighter",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/27481ff279d556acd6399f9500399d37e4314f7d54d5a24986a73e2cb29f20e6.png",
+      "original": "assets/27481ff279d556acd6399f9500399d37e4314f7d54d5a24986a73e2cb29f20e6.png",
+      "sha256": "27481ff279d556acd6399f9500399d37e4314f7d54d5a24986a73e2cb29f20e6"
+    },
+    {
+      "id": "import-862ea243f1584b98",
+      "title": "Razor Contrast · 02 Lighter",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/758cbc8b9901f72d0b734569800b81445767243b21e7ea8ce2a35826dbf453b6.png",
+      "original": "assets/758cbc8b9901f72d0b734569800b81445767243b21e7ea8ce2a35826dbf453b6.png",
+      "sha256": "758cbc8b9901f72d0b734569800b81445767243b21e7ea8ce2a35826dbf453b6"
+    },
+    {
+      "id": "import-77233419c45e1dad",
+      "title": "Tall Soft · 02 Lighter",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/a1540baa5ec70d2f7b73de1b99abeea038458166b236b8ead912d9c1fc98f79f.png",
+      "original": "assets/a1540baa5ec70d2f7b73de1b99abeea038458166b236b8ead912d9c1fc98f79f.png",
+      "sha256": "a1540baa5ec70d2f7b73de1b99abeea038458166b236b8ead912d9c1fc98f79f"
+    },
+    {
+      "id": "import-1dd2ad87555d1592",
+      "title": "Block Channel · 02 Lighter",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/c3e43b55533a010ff979dfd04fc7c30011f82f2c5846afc06269621e2950f76c.png",
+      "original": "assets/c3e43b55533a010ff979dfd04fc7c30011f82f2c5846afc06269621e2950f76c.png",
+      "sha256": "c3e43b55533a010ff979dfd04fc7c30011f82f2c5846afc06269621e2950f76c"
     },
     {
       "id": "import-a30d9fd030614d91",
@@ -1500,6 +1610,61 @@
       "sha256": "15a227b8ff7894cb3fc71fbe5eddedf7b3432f3ca51f02a55113a42261bb23a0"
     },
     {
+      "id": "import-fad67a4c5b63b9d2",
+      "title": "Organic Ribbon · 03 Heavier",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/0cb9b3c589cf58a5a0e48f0a6e9e766ca4bef194cb3c75f54a1fddf067df83f4.png",
+      "original": "assets/0cb9b3c589cf58a5a0e48f0a6e9e766ca4bef194cb3c75f54a1fddf067df83f4.png",
+      "sha256": "0cb9b3c589cf58a5a0e48f0a6e9e766ca4bef194cb3c75f54a1fddf067df83f4"
+    },
+    {
+      "id": "import-0c15846fd08e2919",
+      "title": "Tall Soft · 03 Heavier",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/6ad0686c271f466905cdc0d6c110d362d82e905c4913e49df13238407689638f.png",
+      "original": "assets/6ad0686c271f466905cdc0d6c110d362d82e905c4913e49df13238407689638f.png",
+      "sha256": "6ad0686c271f466905cdc0d6c110d362d82e905c4913e49df13238407689638f"
+    },
+    {
+      "id": "import-0a35846fe5d54fc9",
+      "title": "Block Channel · 03 Heavier",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/942e5fbe77b79f8f09b27dc77e0809c1a60b125d3d7becdd205b33c82d61135c.png",
+      "original": "assets/942e5fbe77b79f8f09b27dc77e0809c1a60b125d3d7becdd205b33c82d61135c.png",
+      "sha256": "942e5fbe77b79f8f09b27dc77e0809c1a60b125d3d7becdd205b33c82d61135c"
+    },
+    {
+      "id": "import-05f6b0d6472b700f",
+      "title": "Diagonal Block · 03 Heavier",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/a9150056107b732674471b8edc4f642e0061c46f3ba205e1930210e24f2157ab.png",
+      "original": "assets/a9150056107b732674471b8edc4f642e0061c46f3ba205e1930210e24f2157ab.png",
+      "sha256": "a9150056107b732674471b8edc4f642e0061c46f3ba205e1930210e24f2157ab"
+    },
+    {
+      "id": "import-8482a2d6c27a814b",
+      "title": "Razor Contrast · 03 Heavier",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/fab015dee93d3b8552462301268123b2d3da3158c8d66d41927a5ef3f84364b5.png",
+      "original": "assets/fab015dee93d3b8552462301268123b2d3da3158c8d66d41927a5ef3f84364b5.png",
+      "sha256": "fab015dee93d3b8552462301268123b2d3da3158c8d66d41927a5ef3f84364b5"
+    },
+    {
       "id": "import-36e5362b043d7bfc",
       "title": "010 · FORM & FEELING · finished poster",
       "category": "Poster applications",
@@ -1522,6 +1687,61 @@
       "sha256": "2085b2bb5980a5c058c122e2c4464853b8a4f512b2c4c33c3a951c1df51ae7e7"
     },
     {
+      "id": "import-965356f012235439",
+      "title": "Tall Soft · 04 Condensed",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/065d4118f4f639cd4166f288a8f779760b40969b5a6769aaa7fd1176d7d76a57.png",
+      "original": "assets/065d4118f4f639cd4166f288a8f779760b40969b5a6769aaa7fd1176d7d76a57.png",
+      "sha256": "065d4118f4f639cd4166f288a8f779760b40969b5a6769aaa7fd1176d7d76a57"
+    },
+    {
+      "id": "import-09e0643eed6506ed",
+      "title": "Block Channel · 04 Condensed",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/196215554b809671ed39bfa727bf5dd9c0ad6e10fc636ad67b5d4281b5cf670d.png",
+      "original": "assets/196215554b809671ed39bfa727bf5dd9c0ad6e10fc636ad67b5d4281b5cf670d.png",
+      "sha256": "196215554b809671ed39bfa727bf5dd9c0ad6e10fc636ad67b5d4281b5cf670d"
+    },
+    {
+      "id": "import-cd3a983785ee07bb",
+      "title": "Diagonal Block · 04 Condensed",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/5d4ce5ff088eab2fae85f6892204f75bd5399f17e96ed14828dcc6675a3aef05.png",
+      "original": "assets/5d4ce5ff088eab2fae85f6892204f75bd5399f17e96ed14828dcc6675a3aef05.png",
+      "sha256": "5d4ce5ff088eab2fae85f6892204f75bd5399f17e96ed14828dcc6675a3aef05"
+    },
+    {
+      "id": "import-06127d292afb45eb",
+      "title": "Razor Contrast · 04 Condensed",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/7562f84b50fee868a7e18ba8eca2e971575fcc21a262a58ea6cf4b6413916e79.png",
+      "original": "assets/7562f84b50fee868a7e18ba8eca2e971575fcc21a262a58ea6cf4b6413916e79.png",
+      "sha256": "7562f84b50fee868a7e18ba8eca2e971575fcc21a262a58ea6cf4b6413916e79"
+    },
+    {
+      "id": "import-372eb34b6c6066ba",
+      "title": "Organic Ribbon · 04 Condensed",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/917b43bb88ea8891e4059feffbf2d405c7edb9055800f7eab98706c0ce850aac.png",
+      "original": "assets/917b43bb88ea8891e4059feffbf2d405c7edb9055800f7eab98706c0ce850aac.png",
+      "sha256": "917b43bb88ea8891e4059feffbf2d405c7edb9055800f7eab98706c0ce850aac"
+    },
+    {
       "id": "import-f47df2ba11e5da21",
       "title": "Architectural alphabet 04 · Monoline arches",
       "category": "New image generations",
@@ -1531,6 +1751,61 @@
       "image": "assets/32025a3495ef7eb7076d696dc84fb685ec5ea08c172efb6c6e24b77f0d620621.png",
       "original": "assets/32025a3495ef7eb7076d696dc84fb685ec5ea08c172efb6c6e24b77f0d620621.png",
       "sha256": "32025a3495ef7eb7076d696dc84fb685ec5ea08c172efb6c6e24b77f0d620621"
+    },
+    {
+      "id": "import-63c6e3683f71d1fc",
+      "title": "Block Channel · 05 Expanded",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/0d82c0d8790c68b03f2a4ea4d9051567bbdc00006221d16e524e47bf982a4df7.png",
+      "original": "assets/0d82c0d8790c68b03f2a4ea4d9051567bbdc00006221d16e524e47bf982a4df7.png",
+      "sha256": "0d82c0d8790c68b03f2a4ea4d9051567bbdc00006221d16e524e47bf982a4df7"
+    },
+    {
+      "id": "import-942601fa204cd570",
+      "title": "Tall Soft · 05 Expanded",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/4fffaf2903628351e8d8ed44b4b528e22cff3698ebec2dcef5689318d9f01148.png",
+      "original": "assets/4fffaf2903628351e8d8ed44b4b528e22cff3698ebec2dcef5689318d9f01148.png",
+      "sha256": "4fffaf2903628351e8d8ed44b4b528e22cff3698ebec2dcef5689318d9f01148"
+    },
+    {
+      "id": "import-3fd69b175714a5f7",
+      "title": "Diagonal Block · 05 Expanded",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/bf533e0ca4f4b26bd69daa4dcafab5adf249039c4f690e980d895c353fe1c391.png",
+      "original": "assets/bf533e0ca4f4b26bd69daa4dcafab5adf249039c4f690e980d895c353fe1c391.png",
+      "sha256": "bf533e0ca4f4b26bd69daa4dcafab5adf249039c4f690e980d895c353fe1c391"
+    },
+    {
+      "id": "import-c533806061561950",
+      "title": "Organic Ribbon · 05 Expanded",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/bf954648b8e5a2a499a85cc79da31a5eac988109535100f9765c77dd27a539d1.png",
+      "original": "assets/bf954648b8e5a2a499a85cc79da31a5eac988109535100f9765c77dd27a539d1.png",
+      "sha256": "bf954648b8e5a2a499a85cc79da31a5eac988109535100f9765c77dd27a539d1"
+    },
+    {
+      "id": "import-3930cc3d141e5ccb",
+      "title": "Razor Contrast · 05 Expanded",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/f6e5b2e10e95289f99e2d93637c1ad8549ff01cd5419defc717b6703e1671c17.png",
+      "original": "assets/f6e5b2e10e95289f99e2d93637c1ad8549ff01cd5419defc717b6703e1671c17.png",
+      "sha256": "f6e5b2e10e95289f99e2d93637c1ad8549ff01cd5419defc717b6703e1671c17"
     },
     {
       "id": "import-e39b5e8b5a20135a",
@@ -1544,6 +1819,28 @@
       "sha256": "464e7b6213f975599be2791bb0bc5110c4511eca919e13693316df7d025dc68b"
     },
     {
+      "id": "import-115cc9a35d1e5f99",
+      "title": "Diagonal Block · 06 Sharper",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/6f825f7c8f6a46b024f5638ed9d2dcb92772a4f90c3114a4f95280d92492d77d.png",
+      "original": "assets/6f825f7c8f6a46b024f5638ed9d2dcb92772a4f90c3114a4f95280d92492d77d.png",
+      "sha256": "6f825f7c8f6a46b024f5638ed9d2dcb92772a4f90c3114a4f95280d92492d77d"
+    },
+    {
+      "id": "import-c9c4be48e2eae95e",
+      "title": "Tall Soft · 06 Sharper",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/9eff58f2fa5c6c7ca05b7b9fd979f79348075c3fc0ef4b72db5368a84c283703.png",
+      "original": "assets/9eff58f2fa5c6c7ca05b7b9fd979f79348075c3fc0ef4b72db5368a84c283703.png",
+      "sha256": "9eff58f2fa5c6c7ca05b7b9fd979f79348075c3fc0ef4b72db5368a84c283703"
+    },
+    {
       "id": "import-1f2b261a428b4ed7",
       "title": "Architectural alphabet 06 · Carved stone",
       "category": "New image generations",
@@ -1553,6 +1850,94 @@
       "image": "assets/3923f1dab8363d9a6aa3ebc74c26bc63d6cee0f1eabbe3a35fa05f426a7a80f8.png",
       "original": "assets/3923f1dab8363d9a6aa3ebc74c26bc63d6cee0f1eabbe3a35fa05f426a7a80f8.png",
       "sha256": "3923f1dab8363d9a6aa3ebc74c26bc63d6cee0f1eabbe3a35fa05f426a7a80f8"
+    },
+    {
+      "id": "import-b1a3ee9bf109bddf",
+      "title": "Block Channel · 06 Sharper",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/ed78ff13b975bd0686ed79f78f2a111640dd60915d2ba02796c55540b96bb847.png",
+      "original": "assets/ed78ff13b975bd0686ed79f78f2a111640dd60915d2ba02796c55540b96bb847.png",
+      "sha256": "ed78ff13b975bd0686ed79f78f2a111640dd60915d2ba02796c55540b96bb847"
+    },
+    {
+      "id": "import-e162a00bb6780d08",
+      "title": "Razor Contrast · 06 Sharper",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/f92f3fae95e49551963a141cc1cf064edfc8e4bd18a81815506bd127dd6c545f.png",
+      "original": "assets/f92f3fae95e49551963a141cc1cf064edfc8e4bd18a81815506bd127dd6c545f.png",
+      "sha256": "f92f3fae95e49551963a141cc1cf064edfc8e4bd18a81815506bd127dd6c545f"
+    },
+    {
+      "id": "import-e0f0954d44addaf1",
+      "title": "Organic Ribbon · 06 Sharper",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/fd38653f6bc99c714fe3f784d1a19776279cade9d45a19471fd2700d7c031aa7.png",
+      "original": "assets/fd38653f6bc99c714fe3f784d1a19776279cade9d45a19471fd2700d7c031aa7.png",
+      "sha256": "fd38653f6bc99c714fe3f784d1a19776279cade9d45a19471fd2700d7c031aa7"
+    },
+    {
+      "id": "import-4eb1258f13a4b825",
+      "title": "Razor Contrast · 07 Softer",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/0004202a881ee61874703fe25c97554499114159662ea42e64eb491a1e03802a.png",
+      "original": "assets/0004202a881ee61874703fe25c97554499114159662ea42e64eb491a1e03802a.png",
+      "sha256": "0004202a881ee61874703fe25c97554499114159662ea42e64eb491a1e03802a"
+    },
+    {
+      "id": "import-f867817532c43cfd",
+      "title": "Tall Soft · 07 Softer",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/12f845afc23d7efd9b1919c86a43cc9290ba9a1b5d4704bf56d69e4cd16c46d6.png",
+      "original": "assets/12f845afc23d7efd9b1919c86a43cc9290ba9a1b5d4704bf56d69e4cd16c46d6.png",
+      "sha256": "12f845afc23d7efd9b1919c86a43cc9290ba9a1b5d4704bf56d69e4cd16c46d6"
+    },
+    {
+      "id": "import-c9b992fbb89349b3",
+      "title": "Block Channel · 07 Softer",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/36d4038783992aa02644e43e42965252c721a12a46ac2e022989c185cd43945b.png",
+      "original": "assets/36d4038783992aa02644e43e42965252c721a12a46ac2e022989c185cd43945b.png",
+      "sha256": "36d4038783992aa02644e43e42965252c721a12a46ac2e022989c185cd43945b"
+    },
+    {
+      "id": "import-179442703c3719d7",
+      "title": "Organic Ribbon · 07 Softer",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/6cbc15a28c3d0f5175fb0036d98598fe185a0182d99aa94da7b6b287287be034.png",
+      "original": "assets/6cbc15a28c3d0f5175fb0036d98598fe185a0182d99aa94da7b6b287287be034.png",
+      "sha256": "6cbc15a28c3d0f5175fb0036d98598fe185a0182d99aa94da7b6b287287be034"
+    },
+    {
+      "id": "import-7e3895f92538889c",
+      "title": "Diagonal Block · 07 Softer",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/9d18b0a4bc2deeb5e3491eb57e0d8ea445e31cfd77c2199f72e14f5ea7070183.png",
+      "original": "assets/9d18b0a4bc2deeb5e3491eb57e0d8ea445e31cfd77c2199f72e14f5ea7070183.png",
+      "sha256": "9d18b0a4bc2deeb5e3491eb57e0d8ea445e31cfd77c2199f72e14f5ea7070183"
     },
     {
       "id": "import-2dd6c46d8db36044",
@@ -1566,6 +1951,61 @@
       "sha256": "d184aa117bae714d3cc32d44bdd7101ead6d71210e7a793c7b787d530ee097cb"
     },
     {
+      "id": "import-2c07bf4eb8efa673",
+      "title": "Block Channel · 08 Contrast",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/0a6f9463776dba2726a2fad5908759531e7b42dc598ca5d3f79035fd4bddcb6b.png",
+      "original": "assets/0a6f9463776dba2726a2fad5908759531e7b42dc598ca5d3f79035fd4bddcb6b.png",
+      "sha256": "0a6f9463776dba2726a2fad5908759531e7b42dc598ca5d3f79035fd4bddcb6b"
+    },
+    {
+      "id": "import-c69ddf22aba2f5d0",
+      "title": "Tall Soft · 08 Contrast",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/5c1a022a45c1fa79254fe60eb9f188adf69f30526fc962114a42296e1f9f3113.png",
+      "original": "assets/5c1a022a45c1fa79254fe60eb9f188adf69f30526fc962114a42296e1f9f3113.png",
+      "sha256": "5c1a022a45c1fa79254fe60eb9f188adf69f30526fc962114a42296e1f9f3113"
+    },
+    {
+      "id": "import-060315d178bb375e",
+      "title": "Organic Ribbon · 08 Contrast",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/6136450b80d41977f0f6b8f3290d4a2910435af77c978272b91aaed6346b28a3.png",
+      "original": "assets/6136450b80d41977f0f6b8f3290d4a2910435af77c978272b91aaed6346b28a3.png",
+      "sha256": "6136450b80d41977f0f6b8f3290d4a2910435af77c978272b91aaed6346b28a3"
+    },
+    {
+      "id": "import-22f49cb336146931",
+      "title": "Diagonal Block · 08 Contrast",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/7f68b2662fb650f27b246f8b887303205c7af6eda0e25819860371e111e47438.png",
+      "original": "assets/7f68b2662fb650f27b246f8b887303205c7af6eda0e25819860371e111e47438.png",
+      "sha256": "7f68b2662fb650f27b246f8b887303205c7af6eda0e25819860371e111e47438"
+    },
+    {
+      "id": "import-6d796e6701d6bc7d",
+      "title": "Razor Contrast · 08 Contrast",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/93d26750c65f8a951ca3467b3c4ded53632fbf6f667571fd25164ff87918a6e0.png",
+      "original": "assets/93d26750c65f8a951ca3467b3c4ded53632fbf6f667571fd25164ff87918a6e0.png",
+      "sha256": "93d26750c65f8a951ca3467b3c4ded53632fbf6f667571fd25164ff87918a6e0"
+    },
+    {
       "id": "import-6d6ab494b413c4d6",
       "title": "Architectural alphabet 08 · Paired rails",
       "category": "New image generations",
@@ -1575,6 +2015,61 @@
       "image": "assets/abf3b329828a8421d200532c898da630a62fcafdc3280eb97e37c3520eb92ee3.png",
       "original": "assets/abf3b329828a8421d200532c898da630a62fcafdc3280eb97e37c3520eb92ee3.png",
       "sha256": "abf3b329828a8421d200532c898da630a62fcafdc3280eb97e37c3520eb92ee3"
+    },
+    {
+      "id": "import-231719c5e8f913bf",
+      "title": "Organic Ribbon · 09 Open counters",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/12996f0972101520e9d91c9c77d7e10d67bcee82271ca6db6e8c059310884ea6.png",
+      "original": "assets/12996f0972101520e9d91c9c77d7e10d67bcee82271ca6db6e8c059310884ea6.png",
+      "sha256": "12996f0972101520e9d91c9c77d7e10d67bcee82271ca6db6e8c059310884ea6"
+    },
+    {
+      "id": "import-2dbaead4f57fa782",
+      "title": "Razor Contrast · 09 Open counters",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/29d0f8286f9debfb3c6f2eed8f80d5542743a98580f4157fce42b52e1dec2dc7.png",
+      "original": "assets/29d0f8286f9debfb3c6f2eed8f80d5542743a98580f4157fce42b52e1dec2dc7.png",
+      "sha256": "29d0f8286f9debfb3c6f2eed8f80d5542743a98580f4157fce42b52e1dec2dc7"
+    },
+    {
+      "id": "import-96a9386dcc1177c8",
+      "title": "Diagonal Block · 09 Open counters",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/370ad3f7355a6580ad518a57d0c3cdd081f0dd155b7550774e73bf478ea6706c.png",
+      "original": "assets/370ad3f7355a6580ad518a57d0c3cdd081f0dd155b7550774e73bf478ea6706c.png",
+      "sha256": "370ad3f7355a6580ad518a57d0c3cdd081f0dd155b7550774e73bf478ea6706c"
+    },
+    {
+      "id": "import-43c05f2329dae4c6",
+      "title": "Block Channel · 09 Open counters",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/9d2ffcf33649fdb175b9c8b7bfede1d1dd5f8fdbb9cdb3deadc37322a73fa616.png",
+      "original": "assets/9d2ffcf33649fdb175b9c8b7bfede1d1dd5f8fdbb9cdb3deadc37322a73fa616.png",
+      "sha256": "9d2ffcf33649fdb175b9c8b7bfede1d1dd5f8fdbb9cdb3deadc37322a73fa616"
+    },
+    {
+      "id": "import-621170cbbea1904a",
+      "title": "Tall Soft · 09 Open counters",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/b688f986549e5bab09dca0bfb20741156c42c9eff407bcb50c784c88d5657ba0.png",
+      "original": "assets/b688f986549e5bab09dca0bfb20741156c42c9eff407bcb50c784c88d5657ba0.png",
+      "sha256": "b688f986549e5bab09dca0bfb20741156c42c9eff407bcb50c784c88d5657ba0"
     },
     {
       "id": "import-a77e8e633825ba80",
@@ -1588,6 +2083,50 @@
       "sha256": "0c6e4c303bcfbc4582aab5a1cbbdae68a5622aeeaceade2a2e40794790d32eb0"
     },
     {
+      "id": "import-a29298f77dc5192e",
+      "title": "Tall Soft · 10 Compact",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/2dd5480bf2244c1b5780eb834505043ea7e5086369583a364564e422f29f873e.png",
+      "original": "assets/2dd5480bf2244c1b5780eb834505043ea7e5086369583a364564e422f29f873e.png",
+      "sha256": "2dd5480bf2244c1b5780eb834505043ea7e5086369583a364564e422f29f873e"
+    },
+    {
+      "id": "import-b86257fd02bd81a3",
+      "title": "Organic Ribbon · 10 Compact",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/35d94f463055e5e904e7d93a7789c35903a2d8a81a8b05402c9945fb7f85d13c.png",
+      "original": "assets/35d94f463055e5e904e7d93a7789c35903a2d8a81a8b05402c9945fb7f85d13c.png",
+      "sha256": "35d94f463055e5e904e7d93a7789c35903a2d8a81a8b05402c9945fb7f85d13c"
+    },
+    {
+      "id": "import-1231fe765c31a932",
+      "title": "Block Channel · 10 Compact",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/73ccddfcf5ca7dab772e78779a6b4c968deaf12f0353182f89f39accce41b89b.png",
+      "original": "assets/73ccddfcf5ca7dab772e78779a6b4c968deaf12f0353182f89f39accce41b89b.png",
+      "sha256": "73ccddfcf5ca7dab772e78779a6b4c968deaf12f0353182f89f39accce41b89b"
+    },
+    {
+      "id": "import-cd3dbc0ba27d3ae7",
+      "title": "Razor Contrast · 10 Compact",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/ba559bac56c7d4a8e718a3576a4c149125e800d9c2ddc7ad0aa398d4069dbc06.png",
+      "original": "assets/ba559bac56c7d4a8e718a3576a4c149125e800d9c2ddc7ad0aa398d4069dbc06.png",
+      "sha256": "ba559bac56c7d4a8e718a3576a4c149125e800d9c2ddc7ad0aa398d4069dbc06"
+    },
+    {
       "id": "import-5ce90767dbef1aa8",
       "title": "Architectural alphabet 10 · Capsule columns",
       "category": "New image generations",
@@ -1599,6 +2138,61 @@
       "sha256": "202031b9d013ecbaf9e4ac45842e8c181305bc0ff418ab3f725362bd93ae4da7"
     },
     {
+      "id": "import-1f5278edd92b926b",
+      "title": "Diagonal Block · 10 Compact",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/e1eaeae8ffc3374bba960348047d96b11a91329548683a083332d82668d2c14f.png",
+      "original": "assets/e1eaeae8ffc3374bba960348047d96b11a91329548683a083332d82668d2c14f.png",
+      "sha256": "e1eaeae8ffc3374bba960348047d96b11a91329548683a083332d82668d2c14f"
+    },
+    {
+      "id": "import-93a6336ee3ea61c2",
+      "title": "Organic Ribbon · 11 Dynamic",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/1388e6c224f1174b0ec01e54cf35b007aa44e3325149d3a4d999967c3452d5a7.png",
+      "original": "assets/1388e6c224f1174b0ec01e54cf35b007aa44e3325149d3a4d999967c3452d5a7.png",
+      "sha256": "1388e6c224f1174b0ec01e54cf35b007aa44e3325149d3a4d999967c3452d5a7"
+    },
+    {
+      "id": "import-f568d30e9e90deef",
+      "title": "Tall Soft · 11 Dynamic",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/4a4f7ecd17e5de4a4b45560eb548562842d3786012f74e2ca5801470a9f67e8a.png",
+      "original": "assets/4a4f7ecd17e5de4a4b45560eb548562842d3786012f74e2ca5801470a9f67e8a.png",
+      "sha256": "4a4f7ecd17e5de4a4b45560eb548562842d3786012f74e2ca5801470a9f67e8a"
+    },
+    {
+      "id": "import-822c4f6252fce7a8",
+      "title": "Diagonal Block · 11 Dynamic",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/769d902b71658e70b7b598342994a4420cda3c570ae6dd38535be038aec60127.png",
+      "original": "assets/769d902b71658e70b7b598342994a4420cda3c570ae6dd38535be038aec60127.png",
+      "sha256": "769d902b71658e70b7b598342994a4420cda3c570ae6dd38535be038aec60127"
+    },
+    {
+      "id": "import-d915f43a6831a0a6",
+      "title": "Block Channel · 11 Dynamic",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/8d155d210292614b7fa499a01432ff7a2b24aff62b78abb6d0813c0ff5c23a7d.png",
+      "original": "assets/8d155d210292614b7fa499a01432ff7a2b24aff62b78abb6d0813c0ff5c23a7d.png",
+      "sha256": "8d155d210292614b7fa499a01432ff7a2b24aff62b78abb6d0813c0ff5c23a7d"
+    },
+    {
       "id": "import-91ac3d8208b35f82",
       "title": "Architectural alphabet 11 · Brutalist vaults",
       "category": "New image generations",
@@ -1608,6 +2202,72 @@
       "image": "assets/21c0885c18345d3591c0fc034f895eb0989ababceca50bfabf9edd96c05b0a7c.png",
       "original": "assets/21c0885c18345d3591c0fc034f895eb0989ababceca50bfabf9edd96c05b0a7c.png",
       "sha256": "21c0885c18345d3591c0fc034f895eb0989ababceca50bfabf9edd96c05b0a7c"
+    },
+    {
+      "id": "import-be6a03616a496395",
+      "title": "Razor Contrast · 11 Dynamic",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/ffff514d5500eb883a82204d57b10062ecb7438c87185be62b4c8b686110f6a3.png",
+      "original": "assets/ffff514d5500eb883a82204d57b10062ecb7438c87185be62b4c8b686110f6a3.png",
+      "sha256": "ffff514d5500eb883a82204d57b10062ecb7438c87185be62b4c8b686110f6a3"
+    },
+    {
+      "id": "import-1f67f339785f22e1",
+      "title": "Organic Ribbon · 12 Refined",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/0f74a4c505a9bb40a4d2de8786dc01f5a58bece537f9be70daa4ea98f9447636.png",
+      "original": "assets/0f74a4c505a9bb40a4d2de8786dc01f5a58bece537f9be70daa4ea98f9447636.png",
+      "sha256": "0f74a4c505a9bb40a4d2de8786dc01f5a58bece537f9be70daa4ea98f9447636"
+    },
+    {
+      "id": "import-764c01cac45e53d7",
+      "title": "Block Channel · 12 Refined",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/39dc39d93993ebdf52c680822cb9e55feca51381d883e11f79edee7412ceea2f.png",
+      "original": "assets/39dc39d93993ebdf52c680822cb9e55feca51381d883e11f79edee7412ceea2f.png",
+      "sha256": "39dc39d93993ebdf52c680822cb9e55feca51381d883e11f79edee7412ceea2f"
+    },
+    {
+      "id": "import-31a5feaa3b126f3b",
+      "title": "Tall Soft · 12 Refined",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/4af9b56739ead7cafa51d88f2250d08779550624e00afb5edbdfe6b2ac5d604c.png",
+      "original": "assets/4af9b56739ead7cafa51d88f2250d08779550624e00afb5edbdfe6b2ac5d604c.png",
+      "sha256": "4af9b56739ead7cafa51d88f2250d08779550624e00afb5edbdfe6b2ac5d604c"
+    },
+    {
+      "id": "import-831e51cd1193898e",
+      "title": "Diagonal Block · 12 Refined",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/5cdc93b57b90326bb30b3a7be74dc9b2e1079092169ece361fd472b76e967e07.png",
+      "original": "assets/5cdc93b57b90326bb30b3a7be74dc9b2e1079092169ece361fd472b76e967e07.png",
+      "sha256": "5cdc93b57b90326bb30b3a7be74dc9b2e1079092169ece361fd472b76e967e07"
+    },
+    {
+      "id": "import-1e9b7614a1033c1a",
+      "title": "Razor Contrast · 12 Refined",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "One of 12 variations of the selected typography reference. Requested A–Z, a–z, 0–9 and !?()&+- in eight rows. Image concept awaiting glyph-by-glyph approval; not a compiled font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K · single-pass 69-glyph specimen",
+      "image": "assets/bc04260cf2e8489cd75c5ce535b5fc27d3ce110a9693ca99aac0c092626c6e42.png",
+      "original": "assets/bc04260cf2e8489cd75c5ce535b5fc27d3ce110a9693ca99aac0c092626c6e42.png",
+      "sha256": "bc04260cf2e8489cd75c5ce535b5fc27d3ce110a9693ca99aac0c092626c6e42"
     },
     {
       "id": "import-68c0d04e32d47ffc",
