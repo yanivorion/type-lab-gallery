@@ -2,7 +2,7 @@
   "schema_version": 1,
   "title": "All typography generations",
   "scope": "Saved generation outputs and actual font proofs; sources, references, UI captures, raw tracing diagnostics and duplicate render encodings excluded. Multiple views of one font are labelled as proofs.",
-  "count": 546,
+  "count": 558,
   "counts": {
     "Word directions": 45,
     "Recent image generations": 7,
@@ -11,7 +11,7 @@
     "Compiled Hebrew fonts": 8,
     "Poster applications": 47,
     "Image generation history": 8,
-    "New image generations": 204
+    "New image generations": 216
   },
   "items": [
     {
@@ -1544,6 +1544,17 @@
       "sha256": "d6d645abc7181990974fd079aba4abac97325d760ce85d17489fbb2ed9680898"
     },
     {
+      "id": "import-df340003a5baa476",
+      "title": "Hebrew Geometric · 01 · Close relative",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "First Hebrew image exploration inspired by the selected historic geometric specimen. Requested 27 Hebrew forms plus digits and seven signs. Experimental: glyph identities, finals, ordering and completeness are not certified.",
+      "origin": "Nautilus Hebrew first batch · https://manage.wix.com/nautilus-app/workflow/0e3557eb-0821-401d-8508-7548845cac3e",
+      "image": "assets/d747b71bda3437d8adaa23e79a11f95ea7aa187ca7e23e458df975242f90f1ee.png",
+      "original": "assets/d747b71bda3437d8adaa23e79a11f95ea7aa187ca7e23e458df975242f90f1ee.png",
+      "sha256": "d747b71bda3437d8adaa23e79a11f95ea7aa187ca7e23e458df975242f90f1ee"
+    },
+    {
       "id": "import-1350b0813de9ffb1",
       "title": "Organic Ribbon · 01 Faithful",
       "category": "New image generations",
@@ -1687,6 +1698,17 @@
       "sha256": "d4ede7f8a5d789a189f571808b757452bb367daf31ebcc8456bc219b3bc0b0a5"
     },
     {
+      "id": "import-023fca02907c5b0c",
+      "title": "Hebrew Geometric · 02 · Upright monolith",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "First Hebrew image exploration inspired by the selected historic geometric specimen. Requested 27 Hebrew forms plus digits and seven signs. Experimental: glyph identities, finals, ordering and completeness are not certified.",
+      "origin": "Nautilus Hebrew first batch · https://manage.wix.com/nautilus-app/workflow/0e3557eb-0821-401d-8508-7548845cac3e",
+      "image": "assets/e852eeb074082a9926e3e2e26192df73a1f2fe258a77d7b0d5b9a88c760a454d.png",
+      "original": "assets/e852eeb074082a9926e3e2e26192df73a1f2fe258a77d7b0d5b9a88c760a454d.png",
+      "sha256": "e852eeb074082a9926e3e2e26192df73a1f2fe258a77d7b0d5b9a88c760a454d"
+    },
+    {
       "id": "import-5aa7278690033df6",
       "title": "002 · Elastic architecture correction preview",
       "category": "Hebrew generations",
@@ -1762,6 +1784,17 @@
       "image": "assets/0fb0baad6fdb9f2da22ff2569a6c8587e0e98c5d1b4b3f5cf3472940b7fd0111.png",
       "original": "assets/0fb0baad6fdb9f2da22ff2569a6c8587e0e98c5d1b4b3f5cf3472940b7fd0111.png",
       "sha256": "0fb0baad6fdb9f2da22ff2569a6c8587e0e98c5d1b4b3f5cf3472940b7fd0111"
+    },
+    {
+      "id": "import-dcf11f3be8a13fe5",
+      "title": "Hebrew Geometric · 03 · Diagonal cuts",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "First Hebrew image exploration inspired by the selected historic geometric specimen. Requested 27 Hebrew forms plus digits and seven signs. Experimental: glyph identities, finals, ordering and completeness are not certified.",
+      "origin": "Nautilus Hebrew first batch · https://manage.wix.com/nautilus-app/workflow/0e3557eb-0821-401d-8508-7548845cac3e",
+      "image": "assets/38a4d739d064101d1a93c0406e2d11673534a25066732623946f6fe4d459e511.png",
+      "original": "assets/38a4d739d064101d1a93c0406e2d11673534a25066732623946f6fe4d459e511.png",
+      "sha256": "38a4d739d064101d1a93c0406e2d11673534a25066732623946f6fe4d459e511"
     },
     {
       "id": "import-0c15846fd08e2919",
@@ -1872,6 +1905,17 @@
       "image": "assets/065d4118f4f639cd4166f288a8f779760b40969b5a6769aaa7fd1176d7d76a57.png",
       "original": "assets/065d4118f4f639cd4166f288a8f779760b40969b5a6769aaa7fd1176d7d76a57.png",
       "sha256": "065d4118f4f639cd4166f288a8f779760b40969b5a6769aaa7fd1176d7d76a57"
+    },
+    {
+      "id": "import-a6e2acff37e85495",
+      "title": "Hebrew Geometric · 04 · Hairline channels",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "First Hebrew image exploration inspired by the selected historic geometric specimen. Requested 27 Hebrew forms plus digits and seven signs. Experimental: glyph identities, finals, ordering and completeness are not certified.",
+      "origin": "Nautilus Hebrew first batch · https://manage.wix.com/nautilus-app/workflow/0e3557eb-0821-401d-8508-7548845cac3e",
+      "image": "assets/0eae90d08d0ca05e08c2becb6da801b87d0cb82c5e34eca24a94f9e866317593.png",
+      "original": "assets/0eae90d08d0ca05e08c2becb6da801b87d0cb82c5e34eca24a94f9e866317593.png",
+      "sha256": "0eae90d08d0ca05e08c2becb6da801b87d0cb82c5e34eca24a94f9e866317593"
     },
     {
       "id": "import-09e0643eed6506ed",
@@ -2072,6 +2116,17 @@
       "sha256": "bf954648b8e5a2a499a85cc79da31a5eac988109535100f9765c77dd27a539d1"
     },
     {
+      "id": "import-fc0f92ddc4b50ce0",
+      "title": "Hebrew Geometric · 05 · Broad rhythm",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "First Hebrew image exploration inspired by the selected historic geometric specimen. Requested 27 Hebrew forms plus digits and seven signs. Experimental: glyph identities, finals, ordering and completeness are not certified.",
+      "origin": "Nautilus Hebrew first batch · https://manage.wix.com/nautilus-app/workflow/0e3557eb-0821-401d-8508-7548845cac3e",
+      "image": "assets/f32f54b107194da5c2750b09e8d553457ca7b912b2ceb22d57c813f0890c95a1.png",
+      "original": "assets/f32f54b107194da5c2750b09e8d553457ca7b912b2ceb22d57c813f0890c95a1.png",
+      "sha256": "f32f54b107194da5c2750b09e8d553457ca7b912b2ceb22d57c813f0890c95a1"
+    },
+    {
       "id": "import-3930cc3d141e5ccb",
       "title": "Razor Contrast · 05 Expanded",
       "category": "New image generations",
@@ -2169,6 +2224,17 @@
       "image": "assets/3923f1dab8363d9a6aa3ebc74c26bc63d6cee0f1eabbe3a35fa05f426a7a80f8.png",
       "original": "assets/3923f1dab8363d9a6aa3ebc74c26bc63d6cee0f1eabbe3a35fa05f426a7a80f8.png",
       "sha256": "3923f1dab8363d9a6aa3ebc74c26bc63d6cee0f1eabbe3a35fa05f426a7a80f8"
+    },
+    {
+      "id": "import-136e4b0c21f8d5f6",
+      "title": "Hebrew Geometric · 06 · Condensed rhythm",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "First Hebrew image exploration inspired by the selected historic geometric specimen. Requested 27 Hebrew forms plus digits and seven signs. Experimental: glyph identities, finals, ordering and completeness are not certified.",
+      "origin": "Nautilus Hebrew first batch · https://manage.wix.com/nautilus-app/workflow/0e3557eb-0821-401d-8508-7548845cac3e",
+      "image": "assets/dbd1d4d8ba6b02aaca53c1e108b326d23b2d305460d91f273b0382ceb38be986.png",
+      "original": "assets/dbd1d4d8ba6b02aaca53c1e108b326d23b2d305460d91f273b0382ceb38be986.png",
+      "sha256": "dbd1d4d8ba6b02aaca53c1e108b326d23b2d305460d91f273b0382ceb38be986"
     },
     {
       "id": "import-b1a3ee9bf109bddf",
@@ -2303,6 +2369,17 @@
       "sha256": "6cbc15a28c3d0f5175fb0036d98598fe185a0182d99aa94da7b6b287287be034"
     },
     {
+      "id": "import-d17e90466fab60f3",
+      "title": "Hebrew Geometric · 07 · Soft geometry",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "First Hebrew image exploration inspired by the selected historic geometric specimen. Requested 27 Hebrew forms plus digits and seven signs. Experimental: glyph identities, finals, ordering and completeness are not certified.",
+      "origin": "Nautilus Hebrew first batch · https://manage.wix.com/nautilus-app/workflow/0e3557eb-0821-401d-8508-7548845cac3e",
+      "image": "assets/8ca3fe5f90b75157a5898e8a639dd640951fe6b0900a7125ff5bcf495e235ff6.png",
+      "original": "assets/8ca3fe5f90b75157a5898e8a639dd640951fe6b0900a7125ff5bcf495e235ff6.png",
+      "sha256": "8ca3fe5f90b75157a5898e8a639dd640951fe6b0900a7125ff5bcf495e235ff6"
+    },
+    {
       "id": "import-5d95bbf921226c00",
       "title": "Tall Soft · Inspired 07 · Dense interpretation",
       "category": "New image generations",
@@ -2356,6 +2433,17 @@
       "image": "assets/172cf433c5f691c86992e9d39d2b47be3c7c687db7c3f30ad1a1d72aa9e1e8ce.png",
       "original": "assets/172cf433c5f691c86992e9d39d2b47be3c7c687db7c3f30ad1a1d72aa9e1e8ce.png",
       "sha256": "172cf433c5f691c86992e9d39d2b47be3c7c687db7c3f30ad1a1d72aa9e1e8ce"
+    },
+    {
+      "id": "import-11975483fc8d3ccb",
+      "title": "Hebrew Geometric · 08 · Sharp wedges",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "First Hebrew image exploration inspired by the selected historic geometric specimen. Requested 27 Hebrew forms plus digits and seven signs. Experimental: glyph identities, finals, ordering and completeness are not certified.",
+      "origin": "Nautilus Hebrew first batch · https://manage.wix.com/nautilus-app/workflow/0e3557eb-0821-401d-8508-7548845cac3e",
+      "image": "assets/18b0a6f5a10d79dc48ebbbcff78bee565341e3ce1cfee4349a72cdde4692c707.png",
+      "original": "assets/18b0a6f5a10d79dc48ebbbcff78bee565341e3ce1cfee4349a72cdde4692c707.png",
+      "sha256": "18b0a6f5a10d79dc48ebbbcff78bee565341e3ce1cfee4349a72cdde4692c707"
     },
     {
       "id": "import-c69ddf22aba2f5d0",
@@ -2477,6 +2565,17 @@
       "image": "assets/29d0f8286f9debfb3c6f2eed8f80d5542743a98580f4157fce42b52e1dec2dc7.png",
       "original": "assets/29d0f8286f9debfb3c6f2eed8f80d5542743a98580f4157fce42b52e1dec2dc7.png",
       "sha256": "29d0f8286f9debfb3c6f2eed8f80d5542743a98580f4157fce42b52e1dec2dc7"
+    },
+    {
+      "id": "import-22a12f1e1154491b",
+      "title": "Hebrew Geometric · 09 · Open counters",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "First Hebrew image exploration inspired by the selected historic geometric specimen. Requested 27 Hebrew forms plus digits and seven signs. Experimental: glyph identities, finals, ordering and completeness are not certified.",
+      "origin": "Nautilus Hebrew first batch · https://manage.wix.com/nautilus-app/workflow/0e3557eb-0821-401d-8508-7548845cac3e",
+      "image": "assets/2d10d4ea2195c1887d52dfc8a3d847074714008cd3498d750c7fe45894be5ed6.png",
+      "original": "assets/2d10d4ea2195c1887d52dfc8a3d847074714008cd3498d750c7fe45894be5ed6.png",
+      "sha256": "2d10d4ea2195c1887d52dfc8a3d847074714008cd3498d750c7fe45894be5ed6"
     },
     {
       "id": "import-a222d590d9fdf86f",
@@ -2620,6 +2719,17 @@
       "image": "assets/35d94f463055e5e904e7d93a7789c35903a2d8a81a8b05402c9945fb7f85d13c.png",
       "original": "assets/35d94f463055e5e904e7d93a7789c35903a2d8a81a8b05402c9945fb7f85d13c.png",
       "sha256": "35d94f463055e5e904e7d93a7789c35903a2d8a81a8b05402c9945fb7f85d13c"
+    },
+    {
+      "id": "import-6e5d8424c085fa62",
+      "title": "Hebrew Geometric · 10 · Medium weight",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "First Hebrew image exploration inspired by the selected historic geometric specimen. Requested 27 Hebrew forms plus digits and seven signs. Experimental: glyph identities, finals, ordering and completeness are not certified.",
+      "origin": "Nautilus Hebrew first batch · https://manage.wix.com/nautilus-app/workflow/0e3557eb-0821-401d-8508-7548845cac3e",
+      "image": "assets/6055d9e5662300c213b956ba196c2364343b44b8140086999e859f99b002a125.png",
+      "original": "assets/6055d9e5662300c213b956ba196c2364343b44b8140086999e859f99b002a125.png",
+      "sha256": "6055d9e5662300c213b956ba196c2364343b44b8140086999e859f99b002a125"
     },
     {
       "id": "import-1231fe765c31a932",
@@ -2776,6 +2886,17 @@
       "sha256": "769d902b71658e70b7b598342994a4420cda3c570ae6dd38535be038aec60127"
     },
     {
+      "id": "import-adf910ac710a5995",
+      "title": "Hebrew Geometric · 11 · Asymmetric arches",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "First Hebrew image exploration inspired by the selected historic geometric specimen. Requested 27 Hebrew forms plus digits and seven signs. Experimental: glyph identities, finals, ordering and completeness are not certified.",
+      "origin": "Nautilus Hebrew first batch · https://manage.wix.com/nautilus-app/workflow/0e3557eb-0821-401d-8508-7548845cac3e",
+      "image": "assets/84b36f6242cb49b8f447ff5d32e6af4bf0d12bbbea79db5c29dee11581725e4c.png",
+      "original": "assets/84b36f6242cb49b8f447ff5d32e6af4bf0d12bbbea79db5c29dee11581725e4c.png",
+      "sha256": "84b36f6242cb49b8f447ff5d32e6af4bf0d12bbbea79db5c29dee11581725e4c"
+    },
+    {
       "id": "import-d915f43a6831a0a6",
       "title": "Block Channel · 11 Dynamic",
       "category": "New image generations",
@@ -2928,6 +3049,17 @@
       "image": "assets/3a057d2ceb435661e0dab3118668abb86e15de6a1083800f76ceae0248dad759.png",
       "original": "assets/3a057d2ceb435661e0dab3118668abb86e15de6a1083800f76ceae0248dad759.png",
       "sha256": "3a057d2ceb435661e0dab3118668abb86e15de6a1083800f76ceae0248dad759"
+    },
+    {
+      "id": "import-5bad293dcea3be36",
+      "title": "Hebrew Geometric · 12 · Contemporary display",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "First Hebrew image exploration inspired by the selected historic geometric specimen. Requested 27 Hebrew forms plus digits and seven signs. Experimental: glyph identities, finals, ordering and completeness are not certified.",
+      "origin": "Nautilus Hebrew first batch · https://manage.wix.com/nautilus-app/workflow/0e3557eb-0821-401d-8508-7548845cac3e",
+      "image": "assets/d60b7d18545af33b8644a5f10edde3f4df8390d51dafb13143f001efaa3d710f.png",
+      "original": "assets/d60b7d18545af33b8644a5f10edde3f4df8390d51dafb13143f001efaa3d710f.png",
+      "sha256": "d60b7d18545af33b8644a5f10edde3f4df8390d51dafb13143f001efaa3d710f"
     },
     {
       "id": "import-ea203204429ae61d",
