@@ -2,7 +2,7 @@
   "schema_version": 1,
   "title": "All typography generations",
   "scope": "Saved generation outputs and actual font proofs; sources, references, UI captures, raw tracing diagnostics and duplicate render encodings excluded. Multiple views of one font are labelled as proofs.",
-  "count": 414,
+  "count": 426,
   "counts": {
     "Word directions": 45,
     "Recent image generations": 7,
@@ -11,7 +11,7 @@
     "Compiled Hebrew fonts": 8,
     "Poster applications": 47,
     "Image generation history": 8,
-    "New image generations": 72
+    "New image generations": 84
   },
   "items": [
     {
@@ -1456,6 +1456,28 @@
       "sha256": "a52e4455794277d24a4ab02ccab3db48feaa0c1a80a407c6a8b3f4234bbf12eb"
     },
     {
+      "id": "import-b4ff3801fd501923",
+      "title": "Architectural alphabet 01 · Faithful arcade",
+      "category": "New image generations",
+      "status": "Needs refinement / image study",
+      "description": "Unwanted texture in lowercase g; some uppercase/lowercase identities and spacing need correction. Requested all 69 characters in 8 rows; generated image, not a validated font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K 4:5 · single-pass alphabet",
+      "image": "assets/b6ecf63a38dc634fee7bd2f8f1a46a5e2f81e644fc4c541ebb7dc88efcfd3804.png",
+      "original": "assets/b6ecf63a38dc634fee7bd2f8f1a46a5e2f81e644fc4c541ebb7dc88efcfd3804.png",
+      "sha256": "b6ecf63a38dc634fee7bd2f8f1a46a5e2f81e644fc4c541ebb7dc88efcfd3804"
+    },
+    {
+      "id": "import-a30d9fd030614d91",
+      "title": "Architectural alphabet 02 · Condensed pilasters",
+      "category": "New image generations",
+      "status": "Needs refinement / image study",
+      "description": "Architectural photographs obscure lowercases; an extra diagram appears in uppercase area. Requested all 69 characters in 8 rows; generated image, not a validated font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K 4:5 · single-pass alphabet",
+      "image": "assets/77d9d3958b41783f4413255deebff27f555d0678c3283ab3c2d89a4e867ba519.png",
+      "original": "assets/77d9d3958b41783f4413255deebff27f555d0678c3283ab3c2d89a4e867ba519.png",
+      "sha256": "77d9d3958b41783f4413255deebff27f555d0678c3283ab3c2d89a4e867ba519"
+    },
+    {
       "id": "import-5aa7278690033df6",
       "title": "002 · Elastic architecture correction preview",
       "category": "Hebrew generations",
@@ -1487,6 +1509,116 @@
       "image": "assets/d3017a6cb8ab70908ee5d54eddeab2bb341b05921237b68582d0ccb0648bf13a.jpg",
       "original": "assets/d3017a6cb8ab70908ee5d54eddeab2bb341b05921237b68582d0ccb0648bf13a.jpg",
       "sha256": "d3017a6cb8ab70908ee5d54eddeab2bb341b05921237b68582d0ccb0648bf13a"
+    },
+    {
+      "id": "import-0f25a45fbcd2b9e6",
+      "title": "Architectural alphabet 03 · Wide courtyard",
+      "category": "New image generations",
+      "status": "Needs refinement / image study",
+      "description": "Some uppercase forms resemble lowercase; row alignment differs from requested left alignment. Requested all 69 characters in 8 rows; generated image, not a validated font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K 4:5 · single-pass alphabet",
+      "image": "assets/2085b2bb5980a5c058c122e2c4464853b8a4f512b2c4c33c3a951c1df51ae7e7.png",
+      "original": "assets/2085b2bb5980a5c058c122e2c4464853b8a4f512b2c4c33c3a951c1df51ae7e7.png",
+      "sha256": "2085b2bb5980a5c058c122e2c4464853b8a4f512b2c4c33c3a951c1df51ae7e7"
+    },
+    {
+      "id": "import-f47df2ba11e5da21",
+      "title": "Architectural alphabet 04 · Monoline arches",
+      "category": "New image generations",
+      "status": "Needs refinement / image study",
+      "description": "Several uppercase forms resemble lowercase; sparse style and identity review required. Requested all 69 characters in 8 rows; generated image, not a validated font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K 4:5 · single-pass alphabet",
+      "image": "assets/32025a3495ef7eb7076d696dc84fb685ec5ea08c172efb6c6e24b77f0d620621.png",
+      "original": "assets/32025a3495ef7eb7076d696dc84fb685ec5ea08c172efb6c6e24b77f0d620621.png",
+      "sha256": "32025a3495ef7eb7076d696dc84fb685ec5ea08c172efb6c6e24b77f0d620621"
+    },
+    {
+      "id": "import-e39b5e8b5a20135a",
+      "title": "Architectural alphabet 05 · High contrast pillars",
+      "category": "New image generations",
+      "status": "Needs refinement / image study",
+      "description": "Uppercase M/N are lowercase-like; style consistency and row alignment need correction. Requested all 69 characters in 8 rows; generated image, not a validated font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K 4:5 · single-pass alphabet",
+      "image": "assets/464e7b6213f975599be2791bb0bc5110c4511eca919e13693316df7d025dc68b.png",
+      "original": "assets/464e7b6213f975599be2791bb0bc5110c4511eca919e13693316df7d025dc68b.png",
+      "sha256": "464e7b6213f975599be2791bb0bc5110c4511eca919e13693316df7d025dc68b"
+    },
+    {
+      "id": "import-1f2b261a428b4ed7",
+      "title": "Architectural alphabet 06 · Carved stone",
+      "category": "New image generations",
+      "status": "Needs refinement / image study",
+      "description": "Architectural photo overlays obscure multiple lowercase forms. Requested all 69 characters in 8 rows; generated image, not a validated font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K 4:5 · single-pass alphabet",
+      "image": "assets/3923f1dab8363d9a6aa3ebc74c26bc63d6cee0f1eabbe3a35fa05f426a7a80f8.png",
+      "original": "assets/3923f1dab8363d9a6aa3ebc74c26bc63d6cee0f1eabbe3a35fa05f426a7a80f8.png",
+      "sha256": "3923f1dab8363d9a6aa3ebc74c26bc63d6cee0f1eabbe3a35fa05f426a7a80f8"
+    },
+    {
+      "id": "import-2dd6c46d8db36044",
+      "title": "Architectural alphabet 07 · Soft stone",
+      "category": "New image generations",
+      "status": "Needs refinement / image study",
+      "description": "Architectural photo overlays obscure lowercases and numerals. Requested all 69 characters in 8 rows; generated image, not a validated font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K 4:5 · single-pass alphabet",
+      "image": "assets/d184aa117bae714d3cc32d44bdd7101ead6d71210e7a793c7b787d530ee097cb.png",
+      "original": "assets/d184aa117bae714d3cc32d44bdd7101ead6d71210e7a793c7b787d530ee097cb.png",
+      "sha256": "d184aa117bae714d3cc32d44bdd7101ead6d71210e7a793c7b787d530ee097cb"
+    },
+    {
+      "id": "import-6d6ab494b413c4d6",
+      "title": "Architectural alphabet 08 · Paired rails",
+      "category": "New image generations",
+      "status": "Needs refinement / image study",
+      "description": "Architectural photo overlays obscure lowercase forms; case and identity checks fail. Requested all 69 characters in 8 rows; generated image, not a validated font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K 4:5 · single-pass alphabet",
+      "image": "assets/abf3b329828a8421d200532c898da630a62fcafdc3280eb97e37c3520eb92ee3.png",
+      "original": "assets/abf3b329828a8421d200532c898da630a62fcafdc3280eb97e37c3520eb92ee3.png",
+      "sha256": "abf3b329828a8421d200532c898da630a62fcafdc3280eb97e37c3520eb92ee3"
+    },
+    {
+      "id": "import-a77e8e633825ba80",
+      "title": "Architectural alphabet 09 · Tiered vaults",
+      "category": "New image generations",
+      "status": "Needs refinement / image study",
+      "description": "Architectural photo overlays obscure lowercase forms. Requested all 69 characters in 8 rows; generated image, not a validated font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K 4:5 · single-pass alphabet",
+      "image": "assets/0c6e4c303bcfbc4582aab5a1cbbdae68a5622aeeaceade2a2e40794790d32eb0.png",
+      "original": "assets/0c6e4c303bcfbc4582aab5a1cbbdae68a5622aeeaceade2a2e40794790d32eb0.png",
+      "sha256": "0c6e4c303bcfbc4582aab5a1cbbdae68a5622aeeaceade2a2e40794790d32eb0"
+    },
+    {
+      "id": "import-5ce90767dbef1aa8",
+      "title": "Architectural alphabet 10 · Capsule columns",
+      "category": "New image generations",
+      "status": "Needs refinement / image study",
+      "description": "Architecture/photo/diagram overlays obscure lowercases; retry result remains defective. Requested all 69 characters in 8 rows; generated image, not a validated font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K 4:5 · single-pass alphabet",
+      "image": "assets/202031b9d013ecbaf9e4ac45842e8c181305bc0ff418ab3f725362bd93ae4da7.png",
+      "original": "assets/202031b9d013ecbaf9e4ac45842e8c181305bc0ff418ab3f725362bd93ae4da7.png",
+      "sha256": "202031b9d013ecbaf9e4ac45842e8c181305bc0ff418ab3f725362bd93ae4da7"
+    },
+    {
+      "id": "import-91ac3d8208b35f82",
+      "title": "Architectural alphabet 11 · Brutalist vaults",
+      "category": "New image generations",
+      "status": "Needs refinement / image study",
+      "description": "Architectural photo overlays obscure multiple rows. Requested all 69 characters in 8 rows; generated image, not a validated font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K 4:5 · single-pass alphabet",
+      "image": "assets/21c0885c18345d3591c0fc034f895eb0989ababceca50bfabf9edd96c05b0a7c.png",
+      "original": "assets/21c0885c18345d3591c0fc034f895eb0989ababceca50bfabf9edd96c05b0a7c.png",
+      "sha256": "21c0885c18345d3591c0fc034f895eb0989ababceca50bfabf9edd96c05b0a7c"
+    },
+    {
+      "id": "import-68c0d04e32d47ffc",
+      "title": "Architectural alphabet 12 · Contemporary arcade",
+      "category": "New image generations",
+      "status": "Needs refinement / image study",
+      "description": "Case-specific anatomy and repeated parts need refinement; some uppercase forms resemble lowercase. Requested all 69 characters in 8 rows; generated image, not a validated font.",
+      "origin": "Nautilus · Nano Banana 2 Edit · 4K 4:5 · single-pass alphabet",
+      "image": "assets/3a057d2ceb435661e0dab3118668abb86e15de6a1083800f76ceae0248dad759.png",
+      "original": "assets/3a057d2ceb435661e0dab3118668abb86e15de6a1083800f76ceae0248dad759.png",
+      "sha256": "3a057d2ceb435661e0dab3118668abb86e15de6a1083800f76ceae0248dad759"
     },
     {
       "id": "import-4c972bc27d03f1ee",
