@@ -2,7 +2,7 @@
   "schema_version": 1,
   "title": "All typography generations",
   "scope": "Saved generation outputs and actual font proofs; sources, references, UI captures, raw tracing diagnostics and duplicate render encodings excluded. Multiple views of one font are labelled as proofs.",
-  "count": 558,
+  "count": 570,
   "counts": {
     "Word directions": 45,
     "Recent image generations": 7,
@@ -11,7 +11,7 @@
     "Compiled Hebrew fonts": 8,
     "Poster applications": 47,
     "Image generation history": 8,
-    "New image generations": 216
+    "New image generations": 228
   },
   "items": [
     {
@@ -3632,6 +3632,138 @@
       "image": "assets/d2f239211c5d9e1c93eda36e014af3bbed8df494fd0163fc2262091630948c77.png",
       "original": "assets/d2f239211c5d9e1c93eda36e014af3bbed8df494fd0163fc2262091630948c77.png",
       "sha256": "d2f239211c5d9e1c93eda36e014af3bbed8df494fd0163fc2262091630948c77"
+    },
+    {
+      "id": "import-f69ebeb3ba419a66",
+      "title": "direction-01",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "12 directions through the shared website-generator session. Unreviewed concepts; character identities and complete coverage are not approved.",
+      "origin": "Nautilus Nano Banana 2 Edit / font runner",
+      "image": "assets/b6f648cbf109df7076713c7e0f9bbe5cd4861f4ea21ec8dd12ea9155725aea66.png",
+      "original": "assets/b6f648cbf109df7076713c7e0f9bbe5cd4861f4ea21ec8dd12ea9155725aea66.png",
+      "sha256": "b6f648cbf109df7076713c7e0f9bbe5cd4861f4ea21ec8dd12ea9155725aea66"
+    },
+    {
+      "id": "import-09a609a728120564",
+      "title": "direction-02",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "12 directions through the shared website-generator session. Unreviewed concepts; character identities and complete coverage are not approved.",
+      "origin": "Nautilus Nano Banana 2 Edit / font runner",
+      "image": "assets/03a102cd15499cb47706728b0cf3bd7f94be8035654d28def534905bc340dd18.png",
+      "original": "assets/03a102cd15499cb47706728b0cf3bd7f94be8035654d28def534905bc340dd18.png",
+      "sha256": "03a102cd15499cb47706728b0cf3bd7f94be8035654d28def534905bc340dd18"
+    },
+    {
+      "id": "import-3441939755336a0a",
+      "title": "direction-03",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "12 directions through the shared website-generator session. Unreviewed concepts; character identities and complete coverage are not approved.",
+      "origin": "Nautilus Nano Banana 2 Edit / font runner",
+      "image": "assets/7aeab4a163d7c6300082f92548e1d1674efd9ed26ff1c948c2bda9461eb4d332.png",
+      "original": "assets/7aeab4a163d7c6300082f92548e1d1674efd9ed26ff1c948c2bda9461eb4d332.png",
+      "sha256": "7aeab4a163d7c6300082f92548e1d1674efd9ed26ff1c948c2bda9461eb4d332"
+    },
+    {
+      "id": "import-80ea68c4b79604d4",
+      "title": "direction-04",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "12 directions through the shared website-generator session. Unreviewed concepts; character identities and complete coverage are not approved.",
+      "origin": "Nautilus Nano Banana 2 Edit / font runner",
+      "image": "assets/633059b1b238fbca344b4446e9a5602b7b85e9e228e1fc1c3d4c727724db9dd1.png",
+      "original": "assets/633059b1b238fbca344b4446e9a5602b7b85e9e228e1fc1c3d4c727724db9dd1.png",
+      "sha256": "633059b1b238fbca344b4446e9a5602b7b85e9e228e1fc1c3d4c727724db9dd1"
+    },
+    {
+      "id": "import-db2e669ddde28a3a",
+      "title": "direction-05",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "12 directions through the shared website-generator session. Unreviewed concepts; character identities and complete coverage are not approved.",
+      "origin": "Nautilus Nano Banana 2 Edit / font runner",
+      "image": "assets/55f615428c74b7a133baeacd62cbbff506ae5a17c497a1f39e858d20ff929733.png",
+      "original": "assets/55f615428c74b7a133baeacd62cbbff506ae5a17c497a1f39e858d20ff929733.png",
+      "sha256": "55f615428c74b7a133baeacd62cbbff506ae5a17c497a1f39e858d20ff929733"
+    },
+    {
+      "id": "import-3165a39a9eed2d47",
+      "title": "direction-06",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "12 directions through the shared website-generator session. Unreviewed concepts; character identities and complete coverage are not approved.",
+      "origin": "Nautilus Nano Banana 2 Edit / font runner",
+      "image": "assets/f75522bc276dcf2c731257f933e9ce3fb36db3350576c8d8d9f6286867a19ad3.png",
+      "original": "assets/f75522bc276dcf2c731257f933e9ce3fb36db3350576c8d8d9f6286867a19ad3.png",
+      "sha256": "f75522bc276dcf2c731257f933e9ce3fb36db3350576c8d8d9f6286867a19ad3"
+    },
+    {
+      "id": "import-b546d9d2eea74ec6",
+      "title": "direction-07",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "12 directions through the shared website-generator session. Unreviewed concepts; character identities and complete coverage are not approved.",
+      "origin": "Nautilus Nano Banana 2 Edit / font runner",
+      "image": "assets/bb96a6e7126068ece31277e0ea6ce9b38f4b6533f691c43dd849d0083c8efa7a.png",
+      "original": "assets/bb96a6e7126068ece31277e0ea6ce9b38f4b6533f691c43dd849d0083c8efa7a.png",
+      "sha256": "bb96a6e7126068ece31277e0ea6ce9b38f4b6533f691c43dd849d0083c8efa7a"
+    },
+    {
+      "id": "import-eb164b05774bc091",
+      "title": "direction-08",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "12 directions through the shared website-generator session. Unreviewed concepts; character identities and complete coverage are not approved.",
+      "origin": "Nautilus Nano Banana 2 Edit / font runner",
+      "image": "assets/66495c6c2d0596ec18ede9a60aec1e7225600495a4ba9f184524f2f26ee27f78.png",
+      "original": "assets/66495c6c2d0596ec18ede9a60aec1e7225600495a4ba9f184524f2f26ee27f78.png",
+      "sha256": "66495c6c2d0596ec18ede9a60aec1e7225600495a4ba9f184524f2f26ee27f78"
+    },
+    {
+      "id": "import-289711ae08456bcf",
+      "title": "direction-09",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "12 directions through the shared website-generator session. Unreviewed concepts; character identities and complete coverage are not approved.",
+      "origin": "Nautilus Nano Banana 2 Edit / font runner",
+      "image": "assets/073eb414bbb71ef49a0ddf3fbfee67bfaff127aeab2cf6804dc7b8737fda38f5.png",
+      "original": "assets/073eb414bbb71ef49a0ddf3fbfee67bfaff127aeab2cf6804dc7b8737fda38f5.png",
+      "sha256": "073eb414bbb71ef49a0ddf3fbfee67bfaff127aeab2cf6804dc7b8737fda38f5"
+    },
+    {
+      "id": "import-29918994fdf62d53",
+      "title": "direction-10",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "12 directions through the shared website-generator session. Unreviewed concepts; character identities and complete coverage are not approved.",
+      "origin": "Nautilus Nano Banana 2 Edit / font runner",
+      "image": "assets/539aa4dd838b365a35d86ac15abb39c71345440156949c95e9235e5218a0bc9a.png",
+      "original": "assets/539aa4dd838b365a35d86ac15abb39c71345440156949c95e9235e5218a0bc9a.png",
+      "sha256": "539aa4dd838b365a35d86ac15abb39c71345440156949c95e9235e5218a0bc9a"
+    },
+    {
+      "id": "import-3292ef37fa2b76c4",
+      "title": "direction-11",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "12 directions through the shared website-generator session. Unreviewed concepts; character identities and complete coverage are not approved.",
+      "origin": "Nautilus Nano Banana 2 Edit / font runner",
+      "image": "assets/43b669e7aacd3d6b704926853f7ebf587c597f60be4c257cb6c38cd9ad2b867f.png",
+      "original": "assets/43b669e7aacd3d6b704926853f7ebf587c597f60be4c257cb6c38cd9ad2b867f.png",
+      "sha256": "43b669e7aacd3d6b704926853f7ebf587c597f60be4c257cb6c38cd9ad2b867f"
+    },
+    {
+      "id": "import-498ee12423e89fdf",
+      "title": "direction-12",
+      "category": "New image generations",
+      "status": "Unreviewed image study / not a font",
+      "description": "12 directions through the shared website-generator session. Unreviewed concepts; character identities and complete coverage are not approved.",
+      "origin": "Nautilus Nano Banana 2 Edit / font runner",
+      "image": "assets/441b12a6ce87b076edb39e4ec8739eafa4e51a14e316326208813c54aa955a3b.png",
+      "original": "assets/441b12a6ce87b076edb39e4ec8739eafa4e51a14e316326208813c54aa955a3b.png",
+      "sha256": "441b12a6ce87b076edb39e4ec8739eafa4e51a14e316326208813c54aa955a3b"
     },
     {
       "id": "import-0b9bbea8b6aff5fb",
