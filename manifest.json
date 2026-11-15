@@ -2,7 +2,7 @@
   "schema_version": 1,
   "title": "All typography generations",
   "scope": "Saved generation outputs and actual font proofs; sources, references, UI captures, raw tracing diagnostics and duplicate render encodings excluded. Multiple views of one font are labelled as proofs.",
-  "count": 570,
+  "count": 576,
   "counts": {
     "Word directions": 45,
     "Recent image generations": 7,
@@ -11,7 +11,7 @@
     "Compiled Hebrew fonts": 8,
     "Poster applications": 47,
     "Image generation history": 8,
-    "New image generations": 228
+    "New image generations": 234
   },
   "items": [
     {
@@ -2809,6 +2809,17 @@
       "sha256": "e1eaeae8ffc3374bba960348047d96b11a91329548683a083332d82668d2c14f"
     },
     {
+      "id": "import-589612a82f8b8ca9",
+      "title": "Usability QA · 100.png",
+      "category": "New image generations",
+      "status": "Technical QA failure / not an approved font",
+      "description": "Technical QA output. Automatic preparation or the complete variable-family build failed validation; this is not an approved font or master.",
+      "origin": "Nautilus workflow usability test",
+      "image": "assets/af97c4b223005de41370e39ff1091b1ce41343babc19914d2d0085f6aa706681.png",
+      "original": "assets/af97c4b223005de41370e39ff1091b1ce41343babc19914d2d0085f6aa706681.png",
+      "sha256": "af97c4b223005de41370e39ff1091b1ce41343babc19914d2d0085f6aa706681"
+    },
+    {
       "id": "import-425445b9f5cf1724",
       "title": "Diagonal Block · Inspired 11 · Counter variation",
       "category": "New image generations",
@@ -3071,6 +3082,39 @@
       "image": "assets/d73b9242d1b86da91ab4d7bcfc4fb53b5a63a76255cbaadcc0e1c705689c75cd.png",
       "original": "assets/d73b9242d1b86da91ab4d7bcfc4fb53b5a63a76255cbaadcc0e1c705689c75cd.png",
       "sha256": "d73b9242d1b86da91ab4d7bcfc4fb53b5a63a76255cbaadcc0e1c705689c75cd"
+    },
+    {
+      "id": "import-c39845a710904935",
+      "title": "Usability QA · 600.png",
+      "category": "New image generations",
+      "status": "Technical QA failure / not an approved font",
+      "description": "Technical QA output. Automatic preparation or the complete variable-family build failed validation; this is not an approved font or master.",
+      "origin": "Nautilus workflow usability test",
+      "image": "assets/c9cf78e7c659008884e8d8fb81149888b52e45ae22db0ad5a4b32886e7e3b3b5.png",
+      "original": "assets/c9cf78e7c659008884e8d8fb81149888b52e45ae22db0ad5a4b32886e7e3b3b5.png",
+      "sha256": "c9cf78e7c659008884e8d8fb81149888b52e45ae22db0ad5a4b32886e7e3b3b5"
+    },
+    {
+      "id": "import-956c1b48df37775a",
+      "title": "Usability QA · 700.png",
+      "category": "New image generations",
+      "status": "Technical QA failure / not an approved font",
+      "description": "Technical QA output. Automatic preparation or the complete variable-family build failed validation; this is not an approved font or master.",
+      "origin": "Nautilus workflow usability test",
+      "image": "assets/32fc33f1cc78a816ed70e5f0398f78e3ae83a139cc4383f7a61575224bf78f98.png",
+      "original": "assets/32fc33f1cc78a816ed70e5f0398f78e3ae83a139cc4383f7a61575224bf78f98.png",
+      "sha256": "32fc33f1cc78a816ed70e5f0398f78e3ae83a139cc4383f7a61575224bf78f98"
+    },
+    {
+      "id": "import-7b5cd9d8f018c186",
+      "title": "Usability QA · 900.png",
+      "category": "New image generations",
+      "status": "Technical QA failure / not an approved font",
+      "description": "Technical QA output. Automatic preparation or the complete variable-family build failed validation; this is not an approved font or master.",
+      "origin": "Nautilus workflow usability test",
+      "image": "assets/063d85fd07b1929c7bbbcbaeb4a53605ef9e26ecddf1b541f5ac5c69ea5a58bc.png",
+      "original": "assets/063d85fd07b1929c7bbbcbaeb4a53605ef9e26ecddf1b541f5ac5c69ea5a58bc.png",
+      "sha256": "063d85fd07b1929c7bbbcbaeb4a53605ef9e26ecddf1b541f5ac5c69ea5a58bc"
     },
     {
       "id": "import-4c972bc27d03f1ee",
@@ -5942,6 +5986,28 @@
       "image": "assets/bced56f3e9787aadebcabcbaa0f9c7544328aff1178e677fe34692300353e60e.png",
       "original": "assets/bced56f3e9787aadebcabcbaa0f9c7544328aff1178e677fe34692300353e60e.png",
       "sha256": "bced56f3e9787aadebcabcbaa0f9c7544328aff1178e677fe34692300353e60e"
+    },
+    {
+      "id": "import-0578fec7f1891220",
+      "title": "Usability QA · repair-1.png",
+      "category": "New image generations",
+      "status": "Technical QA failure / not an approved font",
+      "description": "Technical QA output. Automatic preparation or the complete variable-family build failed validation; this is not an approved font or master.",
+      "origin": "Nautilus workflow usability test",
+      "image": "assets/5f9fe8fba2e4fd6c73c0a6d28754c2907e6c959bf30f94ffda98b4e9cc772f2c.png",
+      "original": "assets/5f9fe8fba2e4fd6c73c0a6d28754c2907e6c959bf30f94ffda98b4e9cc772f2c.png",
+      "sha256": "5f9fe8fba2e4fd6c73c0a6d28754c2907e6c959bf30f94ffda98b4e9cc772f2c"
+    },
+    {
+      "id": "import-c043f7cc4a669377",
+      "title": "Usability QA · repair-2.png",
+      "category": "New image generations",
+      "status": "Technical QA failure / not an approved font",
+      "description": "Technical QA output. Automatic preparation or the complete variable-family build failed validation; this is not an approved font or master.",
+      "origin": "Nautilus workflow usability test",
+      "image": "assets/77a85e7b74a5db7ee7da9a5691f353ab6b947bcce076b573e9cd94da6ed42f3e.png",
+      "original": "assets/77a85e7b74a5db7ee7da9a5691f353ab6b947bcce076b573e9cd94da6ed42f3e.png",
+      "sha256": "77a85e7b74a5db7ee7da9a5691f353ab6b947bcce076b573e9cd94da6ed42f3e"
     },
     {
       "id": "import-687122f73512aa0b",
