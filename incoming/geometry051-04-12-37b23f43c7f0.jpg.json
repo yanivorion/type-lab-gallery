@@ -1,0 +1,7 @@
+{
+  "title": "Geometry 051 · 04-12 · Engraved Greeting / Drawn Engraving",
+  "source": "Nautilus · Nano Banana 2 Text to Image · text-only",
+  "category": "Geometry 051 / FP-267",
+  "status": "Unapproved diagnostic variation; detailed glyph audit and originality review pending / 12-glyph subset / not a font",
+  "description": "Text-only geometric construction test. 12 diagnostic Latin controls requested. Development subset; not a complete alphabet or font. No source images or font outlines supplied. No originality clearance or user approval. Parameters: {\"Drawn stroke contrast\": 8, \"Loop height/width\": 3.0}. Visual screening: The group ranges from formal drawn-script behavior to ordinary upright/italic serif substitutes. Several variants violate the locked one-storey a/g or mix slant/tool behavior across cases. Joined-word behavior is untested because these are isolated controls. The g uses a two-storey text construction despite the locked single-storey requirement. The a is double-storey and much of the sheet shifts toward upright Roman/italic serif behavior rather than one coherent slanted drawn-engraving system. Public asset is a 900 px review preview; the original 4096 px PNG is preserved in the private project."
+}
